@@ -1,0 +1,2005 @@
+return_id,order_id,return_date,reason,refund_amount,refund_status
+1,9,2024-12-21,Others,701.16,Approved
+2,22,2024-11-29,Late Delivery,2437.87,Rejected
+3,23,2025-03-12,Wrong Size,1108.75,Approved
+4,45,2025-06-21,Late Delivery,1222.35,Approved
+5,49,2024-09-04,Wrong Size,2161.28,Approved
+6,51,2025-05-29,Wrong Size,3699.23,Approved
+7,105,2024-12-28,Damaged,5185.35,Rejected
+8,111,2025-03-26,Damaged,2143.62,Approved
+9,113,2025-04-02,Others,2126.12,Approved
+10,156,2024-10-21,Late Delivery,5086.42,Approved
+11,157,2024-03-20,Late Delivery,684.2,Approved
+12,171,2024-08-29,Wrong Size,6111.04,Approved
+13,172,2023-09-09,Wrong Size,1636.78,Rejected
+14,202,2025-03-21,Damaged,999.06,Approved
+15,213,2023-10-02,Wrong Size,342.94,Approved
+16,214,2024-08-02,Others,1975.7,Approved
+17,215,2024-10-16,Others,5013.14,Approved
+18,225,2024-12-25,Wrong Size,4500.78,Approved
+19,228,2024-12-15,Damaged,1531.01,Approved
+20,234,2025-03-30,Late Delivery,1556.2,Approved
+21,239,2025-06-21,Late Delivery,502.31,Approved
+22,242,2025-02-14,Damaged,1547.39,Approved
+23,249,2025-06-30,Damaged,1443.48,Approved
+24,268,2024-12-27,Others,281.73,Approved
+25,277,2024-08-07,Others,347.77,Approved
+26,279,2024-11-22,Damaged,2887.94,Approved
+27,293,2024-11-19,Others,4341.5,Approved
+28,316,2024-12-06,Late Delivery,1894.7,Approved
+29,326,2025-06-23,Late Delivery,1477.01,Approved
+30,331,2025-06-02,Late Delivery,2170.41,Approved
+31,349,2025-07-20,Others,3727.45,Approved
+32,362,2025-04-25,Late Delivery,1139.07,Approved
+33,364,2025-06-02,Others,2412.46,Approved
+34,375,2025-04-24,Wrong Size,4111.58,Approved
+35,398,2024-11-14,Late Delivery,853.26,Approved
+36,447,2025-05-26,Damaged,922.84,Approved
+37,449,2024-11-25,Wrong Size,3146.26,Approved
+38,467,2024-05-10,Damaged,2255.88,Approved
+39,469,2024-12-29,Others,1331.17,Approved
+40,473,2025-05-12,Wrong Size,2075.23,Approved
+41,475,2024-10-31,Wrong Size,1135.62,Approved
+42,487,2024-07-17,Others,264.14,Approved
+43,495,2025-07-01,Damaged,2741.0,Approved
+44,507,2025-06-28,Late Delivery,512.58,Rejected
+45,514,2025-07-04,Wrong Size,1870.01,Rejected
+46,521,2025-05-16,Late Delivery,2240.56,Approved
+47,524,2024-07-20,Wrong Size,3302.69,Approved
+48,525,2024-04-21,Late Delivery,796.42,Approved
+49,532,2025-06-30,Others,2898.86,Approved
+50,539,2024-08-25,Wrong Size,616.54,Rejected
+51,548,2025-05-08,Wrong Size,1604.84,Approved
+52,551,2024-05-12,Wrong Size,999.44,Approved
+53,571,2025-01-11,Others,3110.49,Approved
+54,599,2025-05-20,Damaged,658.55,Approved
+55,618,2024-02-02,Late Delivery,3784.74,Approved
+56,631,2025-04-01,Late Delivery,1789.07,Approved
+57,639,2025-03-31,Wrong Size,481.22,Approved
+58,641,2025-04-14,Late Delivery,1734.03,Approved
+59,654,2025-06-15,Damaged,1432.0,Rejected
+60,661,2025-04-25,Late Delivery,1304.18,Approved
+61,672,2025-05-19,Wrong Size,516.93,Approved
+62,683,2025-06-06,Late Delivery,2202.89,Approved
+63,694,2025-07-06,Others,3676.67,Rejected
+64,711,2025-02-27,Damaged,4233.42,Approved
+65,717,2025-06-02,Wrong Size,1265.22,Approved
+66,723,2025-06-19,Others,2324.14,Approved
+67,729,2025-04-17,Wrong Size,5155.61,Approved
+68,730,2025-07-15,Wrong Size,561.46,Approved
+69,739,2024-09-25,Others,1607.56,Approved
+70,756,2025-02-28,Damaged,1096.29,Approved
+71,760,2025-05-26,Others,3246.86,Approved
+72,775,2025-03-17,Others,4135.83,Approved
+73,779,2025-01-13,Wrong Size,2442.53,Approved
+74,789,2024-09-16,Damaged,2631.25,Approved
+75,790,2025-04-27,Others,712.15,Approved
+76,792,2025-01-28,Wrong Size,1004.17,Approved
+77,793,2025-01-15,Late Delivery,605.12,Approved
+78,795,2024-05-20,Others,3164.13,Approved
+79,814,2025-04-26,Others,734.09,Rejected
+80,834,2025-03-28,Others,957.92,Approved
+81,835,2023-12-15,Wrong Size,2031.13,Approved
+82,842,2024-12-24,Others,236.53,Approved
+83,853,2025-02-06,Wrong Size,406.85,Rejected
+84,866,2025-04-19,Wrong Size,5849.88,Approved
+85,881,2024-04-10,Late Delivery,1479.78,Approved
+86,889,2025-03-31,Late Delivery,3848.25,Approved
+87,901,2024-12-20,Others,2557.84,Approved
+88,936,2024-10-18,Damaged,485.18,Approved
+89,948,2024-12-12,Others,799.44,Rejected
+90,951,2025-02-10,Late Delivery,1726.36,Approved
+91,952,2025-06-11,Others,2246.28,Approved
+92,968,2024-07-27,Wrong Size,743.59,Approved
+93,992,2025-01-09,Wrong Size,645.13,Approved
+94,1005,2023-12-04,Wrong Size,4660.09,Approved
+95,1006,2025-03-24,Late Delivery,1105.64,Rejected
+96,1008,2025-01-20,Wrong Size,701.72,Approved
+97,1045,2025-05-01,Late Delivery,1054.21,Approved
+98,1051,2025-03-01,Late Delivery,1701.73,Approved
+99,1055,2024-11-15,Others,2015.25,Rejected
+100,1065,2025-07-11,Others,373.68,Rejected
+101,1070,2024-03-01,Damaged,2638.22,Approved
+102,1092,2023-12-18,Wrong Size,5226.75,Approved
+103,1096,2025-06-26,Others,1390.08,Approved
+104,1121,2025-06-16,Late Delivery,955.3,Approved
+105,1126,2024-09-25,Damaged,4080.56,Approved
+106,1142,2025-06-28,Others,1198.59,Approved
+107,1172,2025-04-27,Damaged,753.15,Approved
+108,1180,2024-06-04,Late Delivery,661.27,Approved
+109,1190,2024-12-12,Damaged,161.08,Approved
+110,1259,2025-04-08,Others,4376.43,Approved
+111,1268,2024-11-29,Wrong Size,2135.13,Approved
+112,1271,2025-06-28,Others,1591.47,Approved
+113,1274,2024-12-19,Others,5002.08,Approved
+114,1275,2023-08-20,Wrong Size,562.93,Approved
+115,1280,2025-04-05,Late Delivery,431.88,Approved
+116,1304,2024-09-15,Damaged,3105.17,Approved
+117,1306,2024-06-08,Damaged,1786.16,Approved
+118,1351,2025-07-14,Wrong Size,1469.57,Approved
+119,1352,2025-01-11,Wrong Size,5030.0,Approved
+120,1362,2025-06-25,Others,5425.27,Approved
+121,1367,2025-07-13,Wrong Size,1681.8,Approved
+122,1373,2025-02-10,Others,1347.02,Approved
+123,1377,2024-05-17,Others,1973.08,Approved
+124,1380,2025-02-26,Damaged,2354.1,Approved
+125,1390,2025-02-17,Late Delivery,3181.51,Rejected
+126,1401,2025-05-24,Damaged,3296.88,Approved
+127,1422,2025-01-25,Damaged,1371.48,Approved
+128,1426,2025-05-14,Others,984.72,Approved
+129,1444,2025-03-25,Damaged,816.03,Rejected
+130,1450,2025-06-09,Others,284.19,Rejected
+131,1456,2025-06-19,Damaged,3246.47,Approved
+132,1475,2023-12-05,Late Delivery,875.85,Approved
+133,1477,2025-05-26,Others,4673.14,Rejected
+134,1481,2024-02-14,Late Delivery,1996.51,Approved
+135,1497,2025-01-01,Late Delivery,5676.77,Approved
+136,1503,2025-04-07,Late Delivery,2174.99,Approved
+137,1514,2025-03-29,Damaged,2026.83,Approved
+138,1539,2025-04-17,Late Delivery,279.49,Approved
+139,1554,2025-06-16,Wrong Size,2802.8,Approved
+140,1567,2024-05-26,Late Delivery,1040.02,Approved
+141,1571,2025-02-06,Damaged,4204.71,Approved
+142,1577,2024-04-03,Damaged,480.57,Approved
+143,1584,2025-02-21,Damaged,109.15,Rejected
+144,1586,2025-06-30,Damaged,4880.59,Approved
+145,1599,2025-07-20,Late Delivery,5124.82,Approved
+146,1612,2024-11-23,Others,280.67,Rejected
+147,1615,2025-02-05,Damaged,995.65,Approved
+148,1617,2025-05-31,Wrong Size,1016.47,Approved
+149,1619,2025-02-22,Others,840.13,Rejected
+150,1622,2025-06-04,Others,1120.99,Approved
+151,1629,2025-02-09,Others,2416.77,Approved
+152,1631,2025-07-09,Damaged,729.99,Approved
+153,1638,2024-06-15,Damaged,152.22,Approved
+154,1645,2024-07-19,Others,719.97,Approved
+155,1663,2025-03-07,Damaged,3636.54,Approved
+156,1668,2025-05-18,Wrong Size,1732.4,Approved
+157,1676,2024-08-16,Damaged,811.15,Approved
+158,1684,2025-07-15,Late Delivery,1505.12,Approved
+159,1687,2025-02-16,Damaged,4134.15,Approved
+160,1705,2025-06-29,Late Delivery,876.08,Approved
+161,1717,2025-04-05,Wrong Size,1011.15,Rejected
+162,1720,2024-10-12,Wrong Size,1222.71,Rejected
+163,1723,2025-02-21,Damaged,1409.67,Approved
+164,1732,2024-12-06,Damaged,2079.23,Approved
+165,1734,2025-01-11,Late Delivery,1290.3,Approved
+166,1744,2024-10-30,Others,2307.58,Approved
+167,1750,2025-05-24,Damaged,2257.65,Approved
+168,1752,2024-12-29,Wrong Size,1187.24,Approved
+169,1764,2025-06-05,Wrong Size,593.07,Approved
+170,1780,2025-07-19,Others,5617.83,Approved
+171,1792,2024-01-16,Late Delivery,4246.84,Approved
+172,1827,2024-10-13,Late Delivery,757.74,Approved
+173,1845,2025-06-20,Late Delivery,2831.21,Approved
+174,1857,2024-12-17,Damaged,1396.0,Approved
+175,1858,2024-10-25,Damaged,4685.04,Approved
+176,1880,2025-04-26,Wrong Size,1543.79,Approved
+177,1892,2025-02-15,Damaged,1318.31,Approved
+178,1898,2025-05-04,Damaged,2094.5,Approved
+179,1908,2025-04-15,Others,914.57,Approved
+180,1909,2024-09-02,Others,2705.39,Approved
+181,1929,2025-04-02,Others,2817.93,Approved
+182,1941,2025-06-28,Damaged,562.65,Approved
+183,1952,2025-05-26,Late Delivery,835.14,Approved
+184,1995,2025-04-30,Damaged,2162.66,Approved
+185,2012,2024-12-17,Others,187.3,Rejected
+186,2013,2025-06-11,Damaged,335.14,Approved
+187,2014,2025-04-26,Wrong Size,1257.67,Approved
+188,2055,2024-06-20,Damaged,4097.96,Approved
+189,2062,2024-11-02,Late Delivery,842.36,Approved
+190,2071,2024-03-08,Late Delivery,1079.7,Rejected
+191,2083,2024-11-01,Late Delivery,5639.56,Approved
+192,2084,2025-05-08,Late Delivery,1223.18,Approved
+193,2100,2025-04-12,Damaged,989.52,Approved
+194,2102,2025-06-09,Wrong Size,1263.05,Rejected
+195,2103,2025-07-20,Damaged,4205.99,Approved
+196,2117,2024-11-15,Others,593.12,Approved
+197,2121,2024-11-16,Others,2412.81,Approved
+198,2131,2025-01-21,Wrong Size,3966.84,Rejected
+199,2148,2025-07-03,Wrong Size,586.16,Approved
+200,2160,2025-07-06,Others,1971.45,Approved
+201,2162,2024-10-31,Wrong Size,131.59,Approved
+202,2170,2025-07-17,Wrong Size,220.24,Approved
+203,2173,2025-06-30,Wrong Size,858.52,Approved
+204,2175,2025-01-03,Wrong Size,667.24,Approved
+205,2188,2025-03-22,Wrong Size,2078.27,Approved
+206,2193,2025-06-18,Damaged,288.12,Approved
+207,2201,2025-06-08,Late Delivery,522.7,Approved
+208,2228,2024-04-23,Damaged,272.64,Approved
+209,2237,2025-07-08,Late Delivery,1931.93,Approved
+210,2259,2024-12-28,Damaged,1054.1,Approved
+211,2260,2025-03-15,Late Delivery,641.22,Approved
+212,2272,2024-11-29,Late Delivery,705.73,Approved
+213,2282,2024-12-22,Others,2838.79,Approved
+214,2287,2025-03-14,Others,1084.77,Approved
+215,2324,2024-05-12,Late Delivery,303.67,Approved
+216,2329,2025-04-09,Wrong Size,2314.39,Approved
+217,2330,2025-03-24,Late Delivery,4596.05,Approved
+218,2376,2025-07-09,Late Delivery,1975.06,Approved
+219,2396,2025-04-11,Wrong Size,750.87,Approved
+220,2408,2025-04-17,Others,3810.7,Approved
+221,2414,2025-04-11,Late Delivery,1928.96,Approved
+222,2427,2025-01-12,Wrong Size,1310.98,Approved
+223,2440,2023-12-28,Damaged,142.11,Approved
+224,2481,2025-06-30,Others,1767.15,Rejected
+225,2483,2024-12-26,Late Delivery,720.31,Approved
+226,2485,2024-07-28,Late Delivery,5077.7,Approved
+227,2507,2025-05-10,Damaged,3840.6,Approved
+228,2509,2024-11-24,Others,1494.4,Approved
+229,2515,2025-04-01,Others,3075.61,Approved
+230,2519,2025-02-04,Damaged,2253.66,Approved
+231,2526,2025-07-01,Others,970.84,Approved
+232,2532,2025-05-10,Others,380.51,Approved
+233,2536,2024-08-30,Damaged,1578.31,Approved
+234,2537,2025-05-30,Wrong Size,872.1,Approved
+235,2546,2025-05-31,Wrong Size,563.33,Approved
+236,2551,2024-06-13,Others,267.74,Approved
+237,2552,2024-11-27,Damaged,2599.8,Approved
+238,2555,2025-04-28,Wrong Size,716.06,Approved
+239,2565,2025-06-18,Late Delivery,4707.21,Approved
+240,2579,2025-03-04,Wrong Size,204.57,Approved
+241,2580,2025-02-20,Late Delivery,366.36,Approved
+242,2603,2025-07-10,Late Delivery,2103.49,Approved
+243,2608,2025-07-02,Wrong Size,3559.98,Approved
+244,2610,2025-05-29,Wrong Size,2135.39,Approved
+245,2616,2024-05-07,Late Delivery,237.6,Approved
+246,2632,2024-12-25,Wrong Size,4748.42,Rejected
+247,2641,2024-05-02,Wrong Size,158.21,Approved
+248,2646,2025-07-20,Late Delivery,789.04,Approved
+249,2651,2024-02-05,Damaged,6223.35,Approved
+250,2664,2024-09-05,Others,1416.68,Approved
+251,2666,2025-07-20,Damaged,4213.05,Approved
+252,2670,2025-01-19,Late Delivery,1477.09,Approved
+253,2682,2024-11-13,Damaged,889.38,Approved
+254,2690,2025-02-25,Wrong Size,570.92,Rejected
+255,2696,2025-07-10,Others,1634.84,Approved
+256,2706,2025-05-30,Others,3295.38,Rejected
+257,2711,2025-07-19,Others,1622.61,Approved
+258,2722,2025-03-17,Damaged,4588.56,Approved
+259,2773,2025-07-05,Wrong Size,810.78,Approved
+260,2774,2025-02-04,Damaged,3629.75,Approved
+261,2783,2025-02-28,Late Delivery,1227.8,Approved
+262,2786,2025-03-11,Late Delivery,756.21,Approved
+263,2791,2025-01-03,Others,1390.38,Rejected
+264,2812,2025-03-28,Late Delivery,1837.24,Approved
+265,2820,2024-09-23,Damaged,308.79,Rejected
+266,2830,2025-05-31,Wrong Size,1988.26,Approved
+267,2831,2025-05-28,Others,1179.87,Approved
+268,2843,2025-03-21,Late Delivery,3126.79,Approved
+269,2845,2025-02-16,Others,1022.61,Rejected
+270,2847,2025-02-07,Late Delivery,225.12,Approved
+271,2851,2025-03-14,Late Delivery,1079.77,Approved
+272,2890,2025-02-12,Late Delivery,894.05,Approved
+273,2901,2024-05-02,Others,1831.76,Approved
+274,2910,2024-10-13,Late Delivery,381.58,Approved
+275,2919,2024-01-13,Others,1681.54,Approved
+276,2932,2024-05-14,Others,852.45,Approved
+277,2945,2025-03-31,Wrong Size,302.82,Approved
+278,2951,2025-03-07,Wrong Size,1440.22,Approved
+279,2960,2024-07-27,Wrong Size,1424.74,Approved
+280,2962,2024-12-02,Late Delivery,4448.58,Approved
+281,3007,2025-06-21,Late Delivery,462.7,Approved
+282,3017,2025-04-14,Wrong Size,326.51,Approved
+283,3018,2025-04-27,Wrong Size,1474.28,Approved
+284,3027,2025-02-18,Wrong Size,1008.49,Approved
+285,3044,2025-05-22,Late Delivery,3376.51,Approved
+286,3045,2024-04-22,Damaged,426.79,Approved
+287,3046,2025-01-07,Late Delivery,4228.47,Approved
+288,3059,2024-02-06,Others,1688.03,Approved
+289,3075,2025-06-17,Late Delivery,4291.11,Approved
+290,3097,2025-06-28,Wrong Size,1303.87,Approved
+291,3107,2025-04-06,Others,3978.05,Approved
+292,3119,2025-05-13,Others,1236.16,Approved
+293,3150,2023-08-20,Wrong Size,2276.36,Approved
+294,3156,2025-07-20,Others,1714.17,Approved
+295,3163,2025-01-13,Wrong Size,765.14,Approved
+296,3178,2024-09-20,Damaged,1000.73,Rejected
+297,3179,2024-07-24,Others,1272.81,Approved
+298,3186,2025-06-12,Others,2055.33,Approved
+299,3191,2025-05-21,Others,3230.59,Approved
+300,3196,2023-11-07,Damaged,4007.35,Approved
+301,3198,2024-06-02,Others,1603.71,Approved
+302,3224,2024-12-20,Late Delivery,3324.87,Approved
+303,3229,2025-05-02,Others,1215.98,Approved
+304,3242,2024-06-29,Late Delivery,1914.46,Approved
+305,3248,2025-07-18,Others,978.87,Approved
+306,3266,2025-05-10,Damaged,1326.51,Approved
+307,3267,2025-01-04,Damaged,2249.69,Approved
+308,3272,2024-04-09,Late Delivery,2911.26,Approved
+309,3280,2024-07-30,Damaged,1981.92,Approved
+310,3292,2025-05-04,Damaged,450.55,Approved
+311,3300,2025-05-27,Late Delivery,2199.62,Approved
+312,3307,2024-01-04,Wrong Size,313.78,Approved
+313,3310,2024-09-06,Others,3011.58,Approved
+314,3313,2025-01-29,Late Delivery,1056.48,Approved
+315,3321,2025-05-23,Wrong Size,835.49,Approved
+316,3333,2025-07-19,Late Delivery,3548.83,Approved
+317,3335,2024-02-07,Damaged,3717.9,Approved
+318,3336,2025-05-03,Damaged,1328.67,Approved
+319,3357,2025-02-21,Damaged,1462.18,Approved
+320,3358,2025-02-26,Damaged,3295.85,Rejected
+321,3363,2024-06-13,Damaged,121.52,Approved
+322,3367,2024-11-16,Late Delivery,409.06,Approved
+323,3376,2024-06-04,Others,551.69,Rejected
+324,3387,2024-12-13,Damaged,1835.12,Rejected
+325,3388,2024-07-15,Damaged,2079.73,Approved
+326,3390,2025-04-12,Wrong Size,461.22,Approved
+327,3398,2025-04-06,Others,1031.45,Approved
+328,3433,2025-04-24,Late Delivery,1670.05,Approved
+329,3461,2025-05-10,Wrong Size,2282.53,Approved
+330,3474,2025-01-29,Others,3266.26,Approved
+331,3514,2025-07-05,Others,3643.06,Approved
+332,3519,2025-06-18,Wrong Size,1298.72,Approved
+333,3536,2024-06-11,Others,2308.89,Approved
+334,3544,2024-11-22,Late Delivery,837.21,Approved
+335,3548,2025-03-21,Late Delivery,1087.23,Approved
+336,3559,2024-01-23,Damaged,3175.7,Approved
+337,3587,2024-06-06,Others,2015.68,Approved
+338,3591,2024-04-12,Wrong Size,1489.94,Approved
+339,3601,2025-07-12,Damaged,4004.55,Approved
+340,3602,2025-06-07,Others,3915.09,Approved
+341,3615,2025-04-11,Others,2582.24,Approved
+342,3640,2025-07-16,Late Delivery,1043.41,Approved
+343,3662,2025-06-13,Late Delivery,2762.01,Approved
+344,3663,2025-04-10,Damaged,3562.2,Approved
+345,3667,2024-06-10,Damaged,4706.27,Rejected
+346,3694,2025-06-14,Damaged,1443.7,Rejected
+347,3711,2024-07-02,Others,1340.75,Approved
+348,3714,2024-03-29,Others,739.04,Approved
+349,3720,2025-04-17,Late Delivery,456.73,Approved
+350,3747,2025-07-06,Others,1314.64,Approved
+351,3758,2025-07-04,Wrong Size,2131.67,Rejected
+352,3775,2025-07-05,Others,1588.99,Approved
+353,3781,2025-07-18,Late Delivery,437.54,Approved
+354,3802,2025-06-17,Wrong Size,604.47,Approved
+355,3805,2024-07-22,Others,1990.84,Approved
+356,3815,2025-07-08,Late Delivery,1089.69,Approved
+357,3822,2024-09-22,Wrong Size,3030.81,Approved
+358,3824,2025-04-15,Late Delivery,1571.27,Rejected
+359,3842,2025-04-20,Wrong Size,1724.51,Approved
+360,3845,2024-01-06,Others,759.95,Approved
+361,3858,2025-07-15,Damaged,1781.53,Approved
+362,3861,2025-03-28,Late Delivery,2342.95,Rejected
+363,3865,2025-06-18,Wrong Size,3450.26,Approved
+364,3876,2025-07-14,Late Delivery,3404.55,Rejected
+365,3878,2024-12-19,Late Delivery,820.72,Approved
+366,3883,2025-03-05,Others,1445.2,Approved
+367,3885,2024-06-29,Others,930.27,Approved
+368,3886,2025-03-19,Others,282.82,Rejected
+369,3893,2024-11-07,Wrong Size,1739.4,Rejected
+370,3900,2025-01-20,Damaged,1947.77,Approved
+371,3919,2025-06-25,Wrong Size,2602.07,Approved
+372,3921,2025-04-19,Others,1183.39,Rejected
+373,3925,2024-05-16,Wrong Size,2117.91,Approved
+374,3936,2025-05-20,Others,3325.12,Approved
+375,3939,2025-07-07,Others,3449.25,Approved
+376,3943,2024-10-19,Others,870.83,Rejected
+377,3949,2024-08-25,Wrong Size,307.66,Approved
+378,3961,2024-08-14,Wrong Size,887.89,Approved
+379,3969,2025-05-01,Wrong Size,662.58,Approved
+380,3971,2024-11-25,Damaged,2271.8,Approved
+381,3974,2025-07-11,Damaged,1078.87,Approved
+382,3975,2025-05-18,Damaged,1145.27,Rejected
+383,3983,2024-10-13,Late Delivery,3027.67,Approved
+384,3988,2024-08-11,Wrong Size,1005.46,Approved
+385,3998,2025-01-16,Others,603.76,Approved
+386,4019,2025-07-06,Others,166.21,Approved
+387,4021,2025-06-26,Damaged,999.53,Approved
+388,4025,2025-06-27,Others,3929.56,Approved
+389,4026,2025-03-28,Late Delivery,590.37,Approved
+390,4061,2024-07-30,Late Delivery,2488.43,Approved
+391,4074,2024-01-06,Wrong Size,1953.99,Approved
+392,4084,2025-04-03,Late Delivery,2281.61,Approved
+393,4100,2025-05-19,Others,1385.77,Approved
+394,4112,2025-06-17,Others,5660.1,Approved
+395,4114,2025-04-10,Late Delivery,5729.28,Approved
+396,4133,2024-06-11,Others,1152.08,Approved
+397,4148,2025-06-23,Wrong Size,2325.6,Approved
+398,4158,2025-07-19,Damaged,990.39,Approved
+399,4162,2025-04-09,Wrong Size,3255.73,Approved
+400,4171,2025-04-08,Wrong Size,423.72,Approved
+401,4179,2025-06-28,Others,1241.0,Approved
+402,4181,2025-05-10,Damaged,811.46,Approved
+403,4189,2024-03-06,Others,3937.4,Approved
+404,4190,2025-04-17,Damaged,2011.28,Approved
+405,4195,2025-07-11,Wrong Size,2557.89,Approved
+406,4197,2024-07-21,Late Delivery,1497.47,Approved
+407,4210,2024-09-04,Wrong Size,3406.59,Approved
+408,4212,2024-10-20,Others,701.96,Approved
+409,4224,2025-03-02,Wrong Size,4215.9,Approved
+410,4226,2024-10-09,Damaged,736.6,Approved
+411,4229,2025-05-19,Damaged,4055.81,Approved
+412,4235,2025-04-26,Wrong Size,848.98,Approved
+413,4237,2025-02-20,Damaged,915.32,Approved
+414,4249,2025-07-06,Others,878.18,Approved
+415,4263,2025-01-20,Others,3880.8,Approved
+416,4268,2025-03-31,Wrong Size,2857.26,Approved
+417,4271,2025-02-02,Others,4608.12,Approved
+418,4306,2025-05-06,Wrong Size,4197.37,Approved
+419,4313,2025-01-21,Wrong Size,3555.2,Approved
+420,4317,2024-05-15,Wrong Size,5271.74,Approved
+421,4321,2025-07-08,Others,2439.8,Approved
+422,4326,2025-03-02,Late Delivery,1658.71,Approved
+423,4330,2025-07-18,Others,613.55,Approved
+424,4386,2025-03-31,Others,3517.33,Approved
+425,4391,2025-01-29,Damaged,672.8,Approved
+426,4405,2025-06-23,Damaged,4344.09,Approved
+427,4409,2025-02-13,Others,1043.29,Approved
+428,4412,2025-06-09,Damaged,2891.28,Approved
+429,4414,2025-07-13,Others,642.65,Approved
+430,4433,2025-05-11,Wrong Size,1720.12,Approved
+431,4466,2025-06-06,Others,836.69,Approved
+432,4468,2024-08-18,Late Delivery,4015.59,Approved
+433,4501,2025-06-21,Wrong Size,4189.64,Approved
+434,4505,2023-10-05,Late Delivery,3731.16,Approved
+435,4521,2024-11-16,Damaged,1253.68,Approved
+436,4526,2025-07-18,Damaged,462.01,Approved
+437,4530,2025-07-16,Late Delivery,2323.98,Approved
+438,4538,2025-07-19,Late Delivery,1622.43,Approved
+439,4540,2025-01-27,Wrong Size,1693.91,Approved
+440,4550,2024-11-08,Others,3395.4,Approved
+441,4559,2025-01-15,Others,4422.63,Approved
+442,4633,2025-04-20,Damaged,1750.2,Approved
+443,4643,2025-05-06,Wrong Size,1490.07,Approved
+444,4647,2025-06-15,Wrong Size,4034.17,Approved
+445,4654,2025-07-15,Damaged,2061.69,Approved
+446,4671,2025-03-12,Others,3226.62,Approved
+447,4675,2025-07-09,Damaged,3350.18,Approved
+448,4685,2025-04-13,Others,2075.19,Approved
+449,4701,2025-01-22,Others,817.48,Rejected
+450,4704,2024-11-20,Wrong Size,1170.49,Approved
+451,4708,2025-04-01,Damaged,626.32,Approved
+452,4715,2024-11-26,Others,710.02,Approved
+453,4733,2025-05-24,Late Delivery,5649.1,Approved
+454,4738,2024-10-20,Others,4931.49,Rejected
+455,4754,2024-07-18,Damaged,3225.66,Approved
+456,4762,2025-02-06,Wrong Size,732.09,Approved
+457,4769,2024-11-23,Others,3446.36,Rejected
+458,4774,2025-06-30,Others,2170.9,Approved
+459,4782,2025-04-26,Wrong Size,3364.0,Approved
+460,4785,2024-10-07,Damaged,2648.76,Approved
+461,4788,2025-05-01,Damaged,4368.57,Approved
+462,4822,2025-06-03,Wrong Size,1751.57,Approved
+463,4824,2025-05-16,Others,131.52,Approved
+464,4833,2025-07-17,Damaged,763.52,Approved
+465,4840,2025-04-20,Wrong Size,2888.56,Rejected
+466,4858,2025-06-21,Damaged,2242.14,Approved
+467,4868,2025-07-18,Late Delivery,2113.63,Approved
+468,4872,2025-04-15,Late Delivery,664.43,Rejected
+469,4881,2025-03-15,Damaged,2665.34,Approved
+470,4916,2025-06-01,Others,1154.16,Approved
+471,4919,2024-12-03,Others,1503.32,Approved
+472,4921,2025-06-20,Others,1859.04,Approved
+473,4923,2025-05-31,Late Delivery,1330.91,Rejected
+474,4933,2025-04-20,Wrong Size,2896.98,Approved
+475,4964,2024-11-21,Wrong Size,759.91,Approved
+476,4988,2025-04-01,Late Delivery,1908.11,Approved
+477,4990,2024-05-16,Late Delivery,1571.43,Approved
+478,4996,2025-07-10,Others,1404.77,Approved
+479,4998,2024-11-14,Others,3395.85,Approved
+480,5008,2025-04-04,Others,3934.68,Approved
+481,5020,2025-04-26,Others,1078.79,Approved
+482,5022,2024-12-03,Wrong Size,1710.77,Approved
+483,5028,2025-06-20,Damaged,3551.43,Approved
+484,5032,2025-05-20,Wrong Size,1833.92,Approved
+485,5034,2025-04-10,Others,1802.86,Rejected
+486,5036,2025-07-10,Wrong Size,1657.61,Approved
+487,5052,2024-08-07,Late Delivery,3228.01,Rejected
+488,5054,2025-01-03,Others,2744.17,Rejected
+489,5076,2025-05-04,Wrong Size,1158.08,Rejected
+490,5090,2024-04-30,Others,1755.9,Approved
+491,5101,2024-11-26,Damaged,863.62,Approved
+492,5107,2024-12-11,Damaged,315.97,Approved
+493,5115,2024-08-22,Others,1352.11,Approved
+494,5116,2025-01-26,Wrong Size,1196.4,Approved
+495,5127,2024-11-19,Late Delivery,1258.27,Approved
+496,5130,2023-10-24,Others,909.67,Approved
+497,5131,2025-07-01,Late Delivery,5450.37,Rejected
+498,5163,2024-06-03,Others,173.9,Approved
+499,5168,2024-12-02,Late Delivery,2314.26,Rejected
+500,5175,2024-12-25,Others,1135.51,Approved
+501,5191,2025-02-13,Damaged,946.39,Approved
+502,5204,2023-12-24,Others,808.28,Approved
+503,5211,2024-06-24,Late Delivery,2117.81,Rejected
+504,5229,2024-12-10,Others,1099.6,Approved
+505,5233,2025-02-24,Damaged,1279.46,Approved
+506,5247,2024-03-02,Wrong Size,1859.48,Approved
+507,5255,2025-07-14,Damaged,2489.05,Rejected
+508,5260,2025-06-06,Late Delivery,4321.32,Approved
+509,5265,2024-09-24,Wrong Size,830.35,Approved
+510,5273,2025-03-22,Late Delivery,1275.22,Approved
+511,5274,2024-06-30,Late Delivery,755.92,Approved
+512,5279,2024-04-11,Damaged,839.26,Approved
+513,5280,2024-03-27,Damaged,1082.91,Approved
+514,5287,2025-01-27,Late Delivery,702.58,Approved
+515,5299,2025-05-11,Wrong Size,3377.27,Approved
+516,5307,2025-05-19,Late Delivery,2414.88,Approved
+517,5313,2024-10-18,Wrong Size,231.93,Approved
+518,5314,2024-04-26,Others,3664.01,Rejected
+519,5316,2025-06-10,Wrong Size,1830.82,Approved
+520,5317,2025-05-12,Damaged,1135.61,Approved
+521,5340,2025-03-17,Wrong Size,4189.03,Approved
+522,5349,2025-02-01,Late Delivery,789.22,Approved
+523,5408,2025-05-14,Others,2003.98,Approved
+524,5420,2024-05-29,Others,2084.9,Approved
+525,5424,2025-07-06,Late Delivery,1934.93,Approved
+526,5450,2025-04-12,Others,891.66,Approved
+527,5457,2023-12-30,Others,3876.27,Approved
+528,5458,2025-07-07,Damaged,856.68,Approved
+529,5467,2024-09-02,Others,4632.53,Approved
+530,5481,2025-06-01,Wrong Size,2918.34,Approved
+531,5484,2025-07-15,Damaged,236.57,Approved
+532,5487,2024-07-19,Late Delivery,841.98,Rejected
+533,5524,2025-03-22,Others,518.27,Approved
+534,5533,2025-03-29,Others,3570.15,Approved
+535,5539,2025-05-02,Damaged,1221.66,Approved
+536,5547,2024-05-23,Late Delivery,1219.8,Rejected
+537,5552,2024-10-01,Wrong Size,3588.22,Approved
+538,5555,2025-07-08,Damaged,2313.15,Approved
+539,5556,2025-05-06,Others,832.77,Approved
+540,5559,2024-04-12,Others,851.64,Approved
+541,5563,2025-04-26,Others,2222.26,Approved
+542,5599,2025-06-02,Late Delivery,1692.73,Approved
+543,5608,2025-05-07,Wrong Size,1205.1,Rejected
+544,5609,2025-01-20,Damaged,1605.12,Approved
+545,5616,2025-04-25,Damaged,2889.06,Approved
+546,5619,2025-07-18,Wrong Size,2186.68,Approved
+547,5621,2025-05-23,Damaged,1762.05,Rejected
+548,5627,2025-01-20,Damaged,1719.94,Approved
+549,5655,2025-01-04,Wrong Size,1216.07,Approved
+550,5657,2025-07-19,Others,2039.72,Approved
+551,5687,2025-03-02,Damaged,820.01,Approved
+552,5704,2025-07-06,Late Delivery,2566.19,Approved
+553,5707,2025-05-10,Late Delivery,1678.67,Approved
+554,5709,2025-02-14,Wrong Size,1115.22,Approved
+555,5749,2025-06-28,Damaged,3047.34,Approved
+556,5766,2025-07-02,Damaged,1816.19,Rejected
+557,5779,2025-06-02,Late Delivery,1314.06,Approved
+558,5786,2025-07-15,Wrong Size,882.74,Approved
+559,5787,2024-12-30,Wrong Size,1437.07,Approved
+560,5788,2024-03-12,Wrong Size,976.63,Approved
+561,5790,2024-12-04,Others,2386.69,Rejected
+562,5795,2024-09-09,Late Delivery,3025.49,Rejected
+563,5808,2025-07-12,Others,666.89,Approved
+564,5809,2025-01-30,Damaged,3118.31,Approved
+565,5819,2025-06-18,Late Delivery,1035.25,Approved
+566,5821,2025-05-17,Damaged,4232.08,Approved
+567,5824,2024-05-27,Wrong Size,2692.02,Approved
+568,5826,2024-09-17,Wrong Size,1842.19,Approved
+569,5830,2023-12-08,Damaged,1471.52,Approved
+570,5842,2024-06-29,Wrong Size,714.67,Approved
+571,5843,2025-07-12,Others,1109.04,Approved
+572,5849,2025-07-18,Damaged,1011.66,Approved
+573,5852,2025-07-13,Wrong Size,899.5,Approved
+574,5918,2024-03-20,Late Delivery,923.47,Approved
+575,5927,2025-06-07,Others,1131.47,Approved
+576,5932,2025-05-01,Damaged,3667.32,Approved
+577,5933,2024-12-06,Wrong Size,3576.96,Approved
+578,5938,2024-05-01,Others,961.68,Approved
+579,5940,2024-07-17,Damaged,757.15,Approved
+580,5978,2024-11-09,Wrong Size,2124.42,Approved
+581,5982,2024-10-07,Wrong Size,642.45,Approved
+582,5984,2025-03-09,Late Delivery,3660.13,Approved
+583,5996,2025-03-26,Wrong Size,440.67,Approved
+584,5997,2024-11-20,Others,3662.38,Approved
+585,6023,2025-01-14,Others,1976.52,Approved
+586,6028,2025-05-27,Wrong Size,507.79,Approved
+587,6032,2025-07-14,Damaged,1811.74,Approved
+588,6040,2025-07-20,Others,2085.53,Approved
+589,6051,2025-06-07,Late Delivery,3237.63,Approved
+590,6073,2025-02-24,Others,1824.49,Approved
+591,6075,2024-06-30,Others,2779.47,Approved
+592,6082,2024-10-27,Damaged,3197.44,Approved
+593,6090,2024-12-14,Late Delivery,4227.12,Approved
+594,6103,2024-03-03,Wrong Size,1337.72,Approved
+595,6114,2024-10-11,Wrong Size,1061.42,Approved
+596,6125,2024-10-04,Late Delivery,1664.5,Approved
+597,6126,2025-07-20,Others,1376.28,Rejected
+598,6131,2025-07-20,Others,1427.84,Approved
+599,6132,2025-05-23,Wrong Size,315.55,Approved
+600,6134,2025-06-22,Wrong Size,869.25,Approved
+601,6138,2025-05-03,Others,742.54,Approved
+602,6146,2024-02-19,Others,1032.77,Approved
+603,6148,2025-04-10,Wrong Size,250.27,Approved
+604,6152,2025-07-10,Damaged,320.49,Approved
+605,6158,2024-04-11,Others,142.33,Approved
+606,6163,2025-04-07,Damaged,808.77,Approved
+607,6169,2025-03-14,Late Delivery,934.95,Approved
+608,6178,2025-05-17,Damaged,707.19,Approved
+609,6181,2025-06-19,Damaged,278.55,Rejected
+610,6183,2023-10-24,Others,6012.04,Rejected
+611,6195,2025-06-13,Late Delivery,909.89,Approved
+612,6197,2025-02-26,Damaged,1049.64,Approved
+613,6198,2025-06-25,Others,498.66,Approved
+614,6206,2025-01-12,Wrong Size,750.37,Approved
+615,6208,2024-08-05,Damaged,1629.37,Approved
+616,6228,2025-01-19,Damaged,4307.51,Approved
+617,6239,2025-04-24,Others,726.83,Approved
+618,6259,2025-07-19,Wrong Size,3255.52,Approved
+619,6262,2024-04-17,Late Delivery,1911.03,Approved
+620,6268,2025-01-10,Damaged,1427.67,Approved
+621,6274,2025-07-20,Wrong Size,1069.39,Approved
+622,6282,2025-03-17,Damaged,1066.12,Approved
+623,6295,2024-12-14,Others,1682.48,Approved
+624,6302,2025-02-23,Damaged,2199.57,Approved
+625,6330,2024-11-11,Late Delivery,1236.9,Approved
+626,6331,2024-12-15,Others,270.18,Rejected
+627,6333,2024-12-26,Wrong Size,3907.39,Approved
+628,6340,2024-12-14,Late Delivery,4060.19,Approved
+629,6347,2025-04-16,Damaged,1079.81,Approved
+630,6349,2025-05-28,Wrong Size,482.49,Rejected
+631,6352,2025-05-07,Late Delivery,420.34,Approved
+632,6363,2025-05-23,Damaged,589.48,Approved
+633,6366,2024-08-15,Others,1924.53,Approved
+634,6377,2025-07-20,Wrong Size,3091.26,Approved
+635,6386,2025-06-28,Others,1875.38,Approved
+636,6414,2024-10-10,Damaged,4338.14,Approved
+637,6432,2025-06-06,Damaged,3766.43,Approved
+638,6446,2024-05-10,Late Delivery,1260.5,Approved
+639,6459,2025-04-12,Others,1057.36,Approved
+640,6471,2025-06-26,Others,2997.66,Approved
+641,6479,2024-04-27,Late Delivery,2626.39,Approved
+642,6480,2024-11-06,Wrong Size,3585.68,Approved
+643,6492,2024-12-05,Late Delivery,2131.98,Approved
+644,6514,2024-07-02,Wrong Size,432.53,Approved
+645,6521,2025-06-14,Damaged,651.72,Rejected
+646,6535,2025-04-06,Others,1163.66,Approved
+647,6537,2025-03-24,Late Delivery,1836.89,Approved
+648,6545,2025-03-15,Wrong Size,763.48,Approved
+649,6548,2025-05-08,Others,1375.73,Approved
+650,6556,2024-10-20,Damaged,970.96,Approved
+651,6569,2025-02-11,Wrong Size,5441.57,Approved
+652,6583,2024-10-12,Late Delivery,1337.52,Approved
+653,6594,2024-07-30,Others,4059.4,Approved
+654,6600,2024-04-30,Wrong Size,1365.25,Approved
+655,6608,2025-02-06,Others,652.42,Rejected
+656,6616,2025-07-15,Others,1214.01,Approved
+657,6626,2025-06-08,Others,1156.35,Approved
+658,6639,2025-05-27,Late Delivery,889.02,Approved
+659,6655,2025-02-22,Wrong Size,766.33,Approved
+660,6676,2025-04-14,Late Delivery,3177.68,Approved
+661,6678,2023-10-10,Damaged,691.6,Approved
+662,6681,2025-01-28,Others,1815.92,Approved
+663,6691,2025-05-18,Wrong Size,4139.0,Approved
+664,6731,2024-08-21,Wrong Size,1135.28,Approved
+665,6735,2025-07-16,Others,1052.17,Approved
+666,6736,2024-09-24,Damaged,1784.28,Approved
+667,6743,2025-07-20,Wrong Size,2718.41,Approved
+668,6759,2025-07-13,Damaged,2474.42,Approved
+669,6771,2025-03-27,Damaged,1678.63,Approved
+670,6779,2025-01-10,Damaged,2158.97,Rejected
+671,6783,2025-02-05,Others,1997.13,Approved
+672,6793,2024-05-28,Wrong Size,1278.82,Approved
+673,6801,2025-03-04,Others,379.56,Approved
+674,6806,2025-04-02,Others,3534.86,Approved
+675,6813,2025-07-19,Wrong Size,918.26,Approved
+676,6830,2025-02-17,Damaged,3742.53,Approved
+677,6834,2024-03-12,Late Delivery,3716.74,Approved
+678,6841,2024-06-02,Wrong Size,257.65,Approved
+679,6856,2024-11-15,Others,1585.48,Approved
+680,6857,2024-11-21,Wrong Size,4156.52,Approved
+681,6859,2025-03-24,Others,1387.24,Approved
+682,6865,2025-04-22,Wrong Size,1502.55,Approved
+683,6880,2025-01-04,Others,1497.91,Rejected
+684,6886,2025-04-16,Late Delivery,1059.67,Approved
+685,6908,2025-03-07,Others,1396.0,Approved
+686,6909,2024-07-01,Others,5597.44,Approved
+687,6967,2024-07-26,Wrong Size,1820.88,Approved
+688,7007,2025-06-12,Others,1544.4,Approved
+689,7012,2025-05-16,Late Delivery,2304.51,Approved
+690,7019,2025-06-03,Damaged,1647.55,Approved
+691,7024,2025-03-25,Others,1605.66,Approved
+692,7045,2025-07-17,Damaged,1871.54,Approved
+693,7070,2025-05-20,Wrong Size,2244.53,Approved
+694,7073,2025-03-27,Others,701.06,Approved
+695,7091,2025-02-08,Wrong Size,1013.5,Approved
+696,7094,2025-07-16,Damaged,1068.75,Approved
+697,7119,2024-03-23,Late Delivery,729.03,Approved
+698,7133,2025-04-09,Wrong Size,4145.5,Approved
+699,7137,2025-06-28,Wrong Size,1153.07,Approved
+700,7161,2024-03-21,Wrong Size,486.04,Approved
+701,7162,2024-09-26,Late Delivery,523.32,Rejected
+702,7169,2025-04-15,Late Delivery,1865.77,Approved
+703,7171,2025-07-08,Others,260.43,Approved
+704,7181,2025-05-16,Wrong Size,1040.34,Approved
+705,7192,2024-04-25,Wrong Size,904.75,Rejected
+706,7196,2024-05-07,Others,742.61,Approved
+707,7203,2025-05-21,Wrong Size,1421.88,Approved
+708,7204,2025-07-19,Others,390.58,Approved
+709,7213,2025-05-03,Wrong Size,2924.75,Approved
+710,7218,2025-07-10,Late Delivery,793.63,Approved
+711,7226,2025-06-20,Others,3161.96,Approved
+712,7230,2025-06-14,Damaged,2242.74,Approved
+713,7251,2023-12-06,Wrong Size,132.86,Approved
+714,7255,2025-05-10,Wrong Size,2933.29,Approved
+715,7270,2023-10-14,Late Delivery,2737.93,Approved
+716,7279,2025-05-10,Wrong Size,2030.53,Approved
+717,7315,2025-05-25,Damaged,653.81,Rejected
+718,7318,2025-06-10,Wrong Size,1803.1,Rejected
+719,7335,2025-07-03,Damaged,3019.71,Approved
+720,7341,2025-05-06,Late Delivery,1502.07,Approved
+721,7344,2025-06-02,Damaged,3808.87,Approved
+722,7348,2024-02-20,Late Delivery,4130.08,Approved
+723,7352,2023-12-29,Wrong Size,1035.76,Approved
+724,7354,2025-05-18,Late Delivery,2867.63,Approved
+725,7364,2024-04-07,Others,1921.64,Approved
+726,7365,2024-12-12,Wrong Size,6171.2,Approved
+727,7369,2025-04-28,Damaged,635.94,Approved
+728,7370,2023-10-03,Late Delivery,1197.34,Rejected
+729,7371,2024-11-12,Damaged,561.67,Approved
+730,7373,2024-12-08,Damaged,668.1,Approved
+731,7381,2023-12-30,Damaged,355.54,Approved
+732,7385,2025-06-28,Others,1996.15,Approved
+733,7399,2025-06-24,Others,1055.3,Rejected
+734,7411,2025-04-14,Damaged,6131.66,Approved
+735,7418,2025-03-06,Others,916.36,Approved
+736,7421,2024-12-08,Others,1559.97,Approved
+737,7424,2025-03-01,Damaged,774.6,Approved
+738,7446,2024-12-23,Late Delivery,1040.07,Approved
+739,7459,2025-03-19,Late Delivery,291.03,Approved
+740,7462,2025-03-27,Late Delivery,878.75,Approved
+741,7469,2025-02-02,Wrong Size,2310.51,Approved
+742,7481,2025-03-14,Late Delivery,697.0,Approved
+743,7502,2024-11-09,Damaged,2503.71,Approved
+744,7533,2025-02-12,Late Delivery,2054.47,Approved
+745,7551,2025-02-27,Wrong Size,2688.56,Approved
+746,7553,2025-02-11,Others,3511.41,Approved
+747,7573,2025-06-07,Others,2148.86,Approved
+748,7588,2025-02-11,Others,2869.44,Approved
+749,7595,2025-01-14,Damaged,3766.88,Approved
+750,7597,2024-09-19,Others,1847.18,Approved
+751,7602,2025-07-13,Wrong Size,933.65,Approved
+752,7622,2025-07-17,Others,5129.69,Approved
+753,7650,2025-07-08,Late Delivery,1308.01,Approved
+754,7653,2025-02-23,Wrong Size,3257.08,Approved
+755,7655,2025-04-06,Others,210.85,Approved
+756,7661,2024-12-30,Wrong Size,1470.43,Approved
+757,7662,2024-04-09,Damaged,1263.04,Approved
+758,7665,2025-06-24,Others,539.71,Approved
+759,7668,2024-06-17,Others,4666.76,Approved
+760,7679,2025-07-03,Damaged,645.83,Approved
+761,7702,2024-07-17,Late Delivery,2169.81,Approved
+762,7724,2025-06-22,Damaged,124.36,Approved
+763,7725,2025-02-20,Wrong Size,1094.87,Approved
+764,7739,2024-10-07,Wrong Size,1750.44,Rejected
+765,7749,2024-03-03,Wrong Size,846.91,Approved
+766,7750,2024-12-30,Others,1057.59,Approved
+767,7751,2024-09-25,Damaged,253.15,Approved
+768,7766,2025-02-12,Wrong Size,3153.84,Approved
+769,7771,2023-12-09,Late Delivery,1137.22,Approved
+770,7774,2025-07-16,Late Delivery,2684.47,Approved
+771,7793,2024-09-11,Others,1989.1,Approved
+772,7806,2024-11-25,Wrong Size,1061.81,Approved
+773,7807,2024-12-03,Others,276.8,Approved
+774,7810,2025-02-28,Damaged,887.86,Approved
+775,7822,2025-07-16,Wrong Size,2606.84,Approved
+776,7838,2025-04-19,Damaged,448.67,Approved
+777,7839,2025-02-12,Wrong Size,1180.53,Approved
+778,7843,2025-04-03,Damaged,693.01,Approved
+779,7850,2024-12-28,Late Delivery,1457.11,Approved
+780,7871,2025-05-06,Late Delivery,2477.88,Approved
+781,7877,2023-10-15,Late Delivery,720.78,Approved
+782,7883,2025-01-14,Others,1673.49,Approved
+783,7891,2025-02-02,Damaged,484.37,Approved
+784,7898,2025-06-30,Wrong Size,1937.36,Approved
+785,7911,2024-09-15,Others,1295.28,Approved
+786,7913,2025-04-10,Wrong Size,1448.99,Approved
+787,7914,2025-06-23,Others,383.04,Approved
+788,7922,2025-07-13,Wrong Size,1944.6,Approved
+789,7935,2024-12-02,Damaged,223.39,Approved
+790,7949,2024-07-07,Wrong Size,746.7,Approved
+791,7980,2024-11-16,Wrong Size,1419.35,Approved
+792,7981,2025-06-22,Damaged,4100.21,Approved
+793,7992,2025-06-05,Others,1583.3,Approved
+794,8006,2025-03-07,Others,1767.57,Approved
+795,8008,2025-07-07,Wrong Size,332.04,Approved
+796,8009,2025-01-17,Damaged,2240.01,Approved
+797,8028,2025-06-21,Others,2554.1,Approved
+798,8041,2024-10-10,Wrong Size,6225.24,Rejected
+799,8052,2024-12-07,Others,817.39,Rejected
+800,8057,2025-05-18,Damaged,308.07,Approved
+801,8061,2025-02-08,Late Delivery,3579.78,Approved
+802,8068,2025-07-12,Others,149.3,Approved
+803,8087,2023-09-13,Others,574.37,Approved
+804,8093,2024-07-30,Damaged,460.07,Rejected
+805,8111,2025-05-29,Others,1122.78,Approved
+806,8136,2025-07-07,Wrong Size,534.65,Approved
+807,8150,2025-01-12,Others,1244.36,Approved
+808,8163,2025-04-14,Others,715.54,Rejected
+809,8214,2024-09-30,Wrong Size,4540.13,Approved
+810,8218,2025-04-26,Wrong Size,1701.73,Rejected
+811,8225,2025-01-20,Late Delivery,184.59,Approved
+812,8231,2024-11-27,Others,1685.66,Approved
+813,8237,2025-07-14,Wrong Size,4460.01,Approved
+814,8251,2025-04-17,Others,1027.25,Approved
+815,8253,2024-11-25,Damaged,233.05,Approved
+816,8260,2024-09-06,Damaged,2767.04,Approved
+817,8263,2025-03-25,Damaged,1843.94,Approved
+818,8271,2024-05-28,Others,2383.5,Approved
+819,8272,2025-06-16,Damaged,1266.7,Rejected
+820,8280,2025-05-22,Others,4159.17,Approved
+821,8290,2024-05-25,Others,628.98,Rejected
+822,8297,2024-09-05,Late Delivery,1146.99,Approved
+823,8307,2025-03-16,Late Delivery,1053.21,Approved
+824,8314,2024-12-01,Damaged,2600.46,Approved
+825,8320,2025-06-20,Wrong Size,2968.18,Approved
+826,8325,2025-06-19,Others,836.24,Approved
+827,8330,2025-07-15,Wrong Size,2866.5,Approved
+828,8332,2025-05-17,Wrong Size,430.04,Approved
+829,8337,2024-12-14,Damaged,544.0,Approved
+830,8340,2024-02-25,Damaged,2286.99,Rejected
+831,8346,2023-10-30,Damaged,922.66,Approved
+832,8348,2024-11-27,Damaged,771.38,Approved
+833,8349,2025-03-01,Late Delivery,937.88,Approved
+834,8370,2025-07-03,Late Delivery,1122.91,Approved
+835,8373,2025-04-27,Wrong Size,3351.64,Approved
+836,8383,2025-04-01,Wrong Size,1091.33,Approved
+837,8388,2024-10-19,Damaged,175.79,Approved
+838,8395,2024-07-14,Late Delivery,327.77,Approved
+839,8406,2024-11-15,Wrong Size,1784.32,Approved
+840,8411,2024-02-13,Damaged,710.07,Approved
+841,8417,2024-11-17,Damaged,750.86,Rejected
+842,8421,2024-12-31,Damaged,300.8,Approved
+843,8427,2025-04-04,Damaged,2368.19,Approved
+844,8432,2025-05-12,Damaged,2217.12,Approved
+845,8436,2025-07-20,Others,1703.6,Approved
+846,8451,2024-12-01,Wrong Size,822.43,Approved
+847,8452,2024-10-17,Others,533.44,Approved
+848,8465,2025-04-21,Late Delivery,3440.96,Approved
+849,8482,2025-05-16,Others,494.97,Approved
+850,8486,2024-03-17,Others,2355.9,Approved
+851,8492,2025-06-11,Others,347.16,Approved
+852,8501,2025-04-07,Damaged,429.34,Approved
+853,8505,2025-07-13,Others,5329.13,Approved
+854,8509,2024-09-30,Wrong Size,4011.09,Approved
+855,8517,2024-03-30,Late Delivery,163.01,Approved
+856,8522,2024-09-23,Others,3897.14,Approved
+857,8523,2023-12-12,Others,3745.51,Approved
+858,8533,2024-12-15,Damaged,1701.04,Approved
+859,8535,2024-10-11,Others,1827.06,Approved
+860,8537,2025-06-07,Damaged,3875.95,Approved
+861,8543,2025-06-27,Damaged,1586.44,Approved
+862,8561,2025-02-23,Wrong Size,173.53,Approved
+863,8564,2024-07-29,Others,231.9,Approved
+864,8580,2024-06-28,Others,3386.69,Approved
+865,8589,2024-09-18,Damaged,4347.64,Approved
+866,8590,2025-06-20,Others,2127.13,Approved
+867,8597,2024-07-26,Others,744.7,Rejected
+868,8601,2024-11-05,Wrong Size,2442.54,Approved
+869,8602,2025-04-18,Wrong Size,2493.38,Approved
+870,8605,2024-10-20,Late Delivery,179.9,Rejected
+871,8606,2024-08-07,Others,741.37,Approved
+872,8613,2025-04-29,Damaged,661.92,Rejected
+873,8638,2024-04-27,Late Delivery,388.13,Approved
+874,8663,2025-07-18,Late Delivery,495.89,Rejected
+875,8674,2024-09-17,Late Delivery,2458.53,Approved
+876,8686,2025-06-27,Wrong Size,2426.75,Approved
+877,8692,2025-04-03,Others,2002.64,Approved
+878,8694,2025-05-19,Late Delivery,905.65,Approved
+879,8699,2025-04-10,Damaged,2467.64,Approved
+880,8708,2025-02-19,Wrong Size,619.9,Approved
+881,8715,2024-12-12,Damaged,1294.61,Approved
+882,8716,2024-10-11,Wrong Size,842.4,Approved
+883,8725,2024-08-26,Late Delivery,2173.22,Approved
+884,8727,2025-02-02,Damaged,4152.39,Approved
+885,8732,2025-04-05,Late Delivery,1806.75,Approved
+886,8735,2025-07-03,Others,3340.02,Approved
+887,8757,2024-02-28,Late Delivery,868.39,Approved
+888,8765,2025-01-12,Others,849.26,Approved
+889,8773,2024-12-29,Wrong Size,1867.88,Approved
+890,8781,2025-07-20,Damaged,4605.71,Approved
+891,8798,2025-05-23,Late Delivery,290.83,Approved
+892,8806,2024-08-13,Damaged,4799.72,Approved
+893,8817,2025-04-03,Wrong Size,3829.4,Approved
+894,8819,2025-03-29,Others,3119.07,Approved
+895,8827,2025-02-24,Damaged,1056.74,Approved
+896,8837,2024-08-27,Damaged,408.96,Approved
+897,8839,2025-06-17,Damaged,1162.45,Approved
+898,8848,2024-11-10,Damaged,1814.95,Approved
+899,8853,2024-04-26,Others,1520.46,Approved
+900,8855,2024-12-28,Wrong Size,1634.51,Approved
+901,8857,2025-06-18,Damaged,4390.5,Approved
+902,8865,2025-07-04,Damaged,446.39,Approved
+903,8872,2025-06-25,Others,3575.87,Rejected
+904,8887,2024-11-28,Damaged,1821.8,Approved
+905,8900,2025-06-13,Wrong Size,996.47,Approved
+906,8921,2025-07-04,Damaged,4795.76,Approved
+907,8922,2024-11-17,Wrong Size,1081.07,Approved
+908,8923,2025-04-16,Others,2010.62,Approved
+909,8930,2025-01-17,Damaged,1819.48,Approved
+910,8957,2025-02-20,Wrong Size,1480.25,Approved
+911,8965,2025-01-06,Others,2059.98,Approved
+912,8967,2025-07-17,Damaged,484.28,Approved
+913,8976,2025-05-21,Damaged,2280.37,Approved
+914,8995,2025-02-04,Wrong Size,2716.64,Approved
+915,8996,2025-01-05,Damaged,1816.4,Approved
+916,8998,2024-08-11,Others,260.75,Approved
+917,9003,2025-03-14,Others,3164.4,Approved
+918,9022,2024-08-27,Wrong Size,1384.95,Rejected
+919,9044,2025-05-02,Damaged,3028.63,Approved
+920,9054,2025-06-14,Late Delivery,1170.51,Rejected
+921,9064,2025-03-12,Late Delivery,1402.18,Approved
+922,9068,2025-05-02,Others,1893.03,Approved
+923,9073,2025-04-12,Damaged,1218.99,Approved
+924,9078,2024-08-21,Late Delivery,1750.31,Approved
+925,9083,2024-09-19,Damaged,791.97,Approved
+926,9143,2025-03-31,Late Delivery,1156.97,Rejected
+927,9156,2025-07-01,Others,616.48,Approved
+928,9157,2025-05-11,Others,3858.31,Approved
+929,9162,2025-05-20,Others,1938.21,Approved
+930,9191,2025-06-30,Others,143.06,Approved
+931,9194,2025-07-09,Late Delivery,5021.95,Approved
+932,9195,2024-10-09,Others,762.61,Approved
+933,9203,2025-02-26,Late Delivery,444.36,Approved
+934,9208,2024-11-19,Late Delivery,581.35,Approved
+935,9215,2024-08-12,Others,2360.97,Approved
+936,9217,2025-07-16,Others,506.89,Approved
+937,9218,2025-06-29,Damaged,3176.32,Approved
+938,9232,2025-05-03,Late Delivery,816.98,Approved
+939,9246,2024-12-28,Late Delivery,1794.19,Rejected
+940,9250,2025-07-19,Others,796.26,Approved
+941,9271,2025-05-10,Damaged,456.43,Approved
+942,9277,2025-05-19,Damaged,2737.13,Approved
+943,9282,2025-06-03,Damaged,1601.69,Approved
+944,9285,2025-03-09,Wrong Size,1140.86,Approved
+945,9286,2025-02-08,Others,2773.03,Approved
+946,9294,2025-02-05,Damaged,252.0,Approved
+947,9321,2025-03-17,Others,2381.55,Rejected
+948,9324,2025-02-04,Damaged,5545.47,Rejected
+949,9348,2025-01-21,Wrong Size,1905.11,Approved
+950,9364,2024-11-17,Others,2228.49,Approved
+951,9370,2025-04-23,Others,540.81,Approved
+952,9375,2025-07-14,Others,900.87,Approved
+953,9383,2025-05-23,Damaged,504.7,Rejected
+954,9391,2025-07-10,Late Delivery,932.78,Approved
+955,9396,2024-09-03,Wrong Size,772.3,Approved
+956,9407,2025-07-05,Late Delivery,3182.25,Rejected
+957,9416,2025-05-30,Wrong Size,394.15,Approved
+958,9417,2025-05-28,Wrong Size,995.39,Rejected
+959,9423,2025-07-06,Damaged,1119.88,Approved
+960,9431,2024-12-20,Damaged,4419.7,Approved
+961,9442,2025-05-18,Wrong Size,925.79,Approved
+962,9471,2025-03-26,Wrong Size,4135.75,Approved
+963,9476,2025-03-18,Late Delivery,2111.2,Approved
+964,9481,2024-07-16,Wrong Size,188.06,Approved
+965,9485,2025-05-31,Late Delivery,571.55,Approved
+966,9497,2025-06-24,Others,1488.48,Approved
+967,9505,2025-06-12,Late Delivery,2279.35,Approved
+968,9514,2025-07-04,Late Delivery,2162.45,Approved
+969,9567,2024-09-03,Late Delivery,464.05,Approved
+970,9578,2025-07-03,Late Delivery,1727.51,Approved
+971,9609,2025-07-10,Damaged,3605.44,Approved
+972,9612,2024-05-25,Wrong Size,1056.93,Approved
+973,9619,2025-07-05,Others,452.77,Approved
+974,9624,2025-04-26,Damaged,924.82,Approved
+975,9636,2025-03-15,Damaged,714.34,Approved
+976,9642,2024-11-25,Late Delivery,2530.39,Approved
+977,9651,2024-12-05,Others,452.88,Approved
+978,9655,2025-07-20,Damaged,572.98,Approved
+979,9661,2025-02-10,Others,2011.91,Approved
+980,9671,2024-10-09,Wrong Size,1540.54,Approved
+981,9675,2025-04-18,Damaged,2245.86,Approved
+982,9678,2024-10-15,Wrong Size,3412.12,Approved
+983,9682,2024-09-05,Late Delivery,1197.04,Rejected
+984,9686,2024-06-12,Late Delivery,497.88,Rejected
+985,9696,2025-01-05,Late Delivery,2354.38,Approved
+986,9709,2025-07-18,Wrong Size,2247.84,Approved
+987,9711,2025-05-22,Damaged,3273.02,Approved
+988,9721,2025-03-25,Wrong Size,5943.97,Approved
+989,9726,2025-05-30,Wrong Size,2257.83,Approved
+990,9727,2025-05-01,Wrong Size,392.69,Approved
+991,9728,2025-07-13,Wrong Size,1021.42,Approved
+992,9729,2024-08-19,Others,5540.45,Approved
+993,9775,2024-10-25,Late Delivery,4686.15,Approved
+994,9790,2025-07-03,Late Delivery,1423.56,Approved
+995,9791,2025-05-31,Others,1023.72,Approved
+996,9795,2024-09-25,Others,276.24,Approved
+997,9798,2025-06-17,Damaged,351.34,Approved
+998,9805,2025-03-23,Late Delivery,1361.16,Approved
+999,9806,2025-06-03,Wrong Size,684.16,Rejected
+1000,9820,2025-07-16,Others,881.77,Approved
+1001,9829,2023-12-02,Damaged,3490.72,Approved
+1002,9830,2025-05-09,Late Delivery,798.67,Approved
+1003,9836,2025-03-06,Damaged,664.28,Approved
+1004,9847,2025-04-26,Damaged,5586.84,Approved
+1005,9860,2025-06-14,Damaged,1795.49,Approved
+1006,9873,2024-12-11,Damaged,537.14,Rejected
+1007,9876,2024-07-13,Damaged,357.86,Approved
+1008,9879,2024-09-15,Damaged,2724.7,Rejected
+1009,9882,2025-06-14,Late Delivery,1339.56,Approved
+1010,9884,2025-03-27,Others,4524.21,Approved
+1011,9885,2024-07-19,Wrong Size,4172.81,Approved
+1012,9895,2025-01-24,Damaged,5789.11,Approved
+1013,9900,2025-01-20,Damaged,4647.49,Approved
+1014,9905,2025-03-10,Others,1873.12,Approved
+1015,9910,2025-06-29,Wrong Size,2840.51,Rejected
+1016,9913,2025-06-07,Late Delivery,1450.76,Approved
+1017,9917,2025-01-06,Late Delivery,5329.77,Approved
+1018,9922,2025-05-01,Damaged,343.46,Approved
+1019,9923,2025-06-29,Late Delivery,3082.44,Rejected
+1020,9930,2025-03-14,Others,521.91,Rejected
+1021,9936,2024-11-21,Late Delivery,1712.21,Approved
+1022,9943,2024-10-03,Others,951.65,Approved
+1023,9951,2025-07-10,Wrong Size,635.89,Approved
+1024,9952,2024-10-09,Wrong Size,1537.73,Approved
+1025,9958,2024-07-04,Wrong Size,257.37,Approved
+1026,9963,2024-09-21,Others,747.28,Approved
+1027,9980,2025-07-13,Late Delivery,1788.62,Approved
+1028,9989,2025-06-08,Wrong Size,4214.59,Approved
+1029,9990,2025-02-14,Late Delivery,1070.56,Approved
+1030,10005,2025-06-17,Others,4954.41,Approved
+1031,10010,2025-06-26,Wrong Size,1077.32,Approved
+1032,10028,2025-04-16,Others,3473.96,Approved
+1033,10039,2025-04-02,Wrong Size,2012.59,Approved
+1034,10046,2025-04-09,Late Delivery,3439.91,Approved
+1035,10052,2024-09-23,Wrong Size,688.09,Approved
+1036,10063,2025-06-25,Others,1579.5,Approved
+1037,10067,2024-11-20,Wrong Size,904.05,Approved
+1038,10075,2024-08-21,Others,1769.65,Rejected
+1039,10077,2025-05-20,Damaged,2639.3,Approved
+1040,10104,2025-01-23,Others,1051.45,Approved
+1041,10106,2025-07-06,Wrong Size,1744.48,Approved
+1042,10121,2024-12-29,Damaged,2183.12,Approved
+1043,10149,2025-06-17,Late Delivery,2035.06,Approved
+1044,10150,2024-11-18,Others,386.82,Approved
+1045,10151,2025-06-25,Wrong Size,2356.15,Approved
+1046,10155,2025-01-12,Wrong Size,5887.47,Approved
+1047,10184,2025-04-17,Wrong Size,726.97,Rejected
+1048,10196,2025-02-16,Late Delivery,1061.34,Approved
+1049,10206,2025-06-16,Others,1128.1,Approved
+1050,10211,2025-07-10,Others,2035.33,Approved
+1051,10216,2025-07-09,Wrong Size,2397.65,Approved
+1052,10226,2025-05-01,Late Delivery,1434.63,Approved
+1053,10229,2024-09-13,Others,978.07,Approved
+1054,10238,2024-10-14,Others,3455.04,Approved
+1055,10246,2025-03-16,Late Delivery,3605.41,Approved
+1056,10260,2025-04-19,Late Delivery,272.21,Approved
+1057,10263,2025-04-28,Wrong Size,388.94,Approved
+1058,10266,2025-01-29,Others,4921.23,Approved
+1059,10302,2024-05-20,Late Delivery,2160.75,Rejected
+1060,10305,2025-06-03,Damaged,1870.61,Approved
+1061,10309,2025-02-20,Late Delivery,3504.36,Approved
+1062,10339,2025-07-05,Damaged,1737.95,Approved
+1063,10346,2025-07-15,Late Delivery,1880.87,Approved
+1064,10359,2025-06-22,Wrong Size,1425.09,Approved
+1065,10363,2025-04-25,Others,748.97,Approved
+1066,10364,2025-05-02,Wrong Size,2802.74,Approved
+1067,10375,2025-06-30,Damaged,1848.1,Approved
+1068,10380,2024-08-12,Others,2550.29,Approved
+1069,10388,2024-09-01,Damaged,1958.33,Approved
+1070,10400,2025-03-20,Late Delivery,806.77,Approved
+1071,10403,2025-04-08,Damaged,2593.78,Approved
+1072,10404,2025-02-22,Others,4966.87,Approved
+1073,10415,2024-11-02,Wrong Size,1046.58,Approved
+1074,10420,2024-04-25,Others,505.53,Rejected
+1075,10447,2024-04-07,Others,786.19,Approved
+1076,10461,2024-08-18,Damaged,810.6,Approved
+1077,10465,2025-02-21,Late Delivery,1990.51,Approved
+1078,10473,2025-04-18,Damaged,327.09,Approved
+1079,10483,2024-11-08,Damaged,823.56,Approved
+1080,10487,2025-05-10,Others,2570.27,Approved
+1081,10497,2025-06-21,Others,442.42,Approved
+1082,10500,2025-07-18,Others,4447.47,Approved
+1083,10533,2025-04-17,Late Delivery,1302.88,Approved
+1084,10542,2025-02-14,Late Delivery,1148.76,Approved
+1085,10546,2024-06-10,Late Delivery,4429.74,Approved
+1086,10553,2025-01-02,Others,2288.43,Approved
+1087,10562,2025-07-15,Wrong Size,770.99,Rejected
+1088,10571,2024-08-24,Late Delivery,746.93,Approved
+1089,10590,2024-05-05,Late Delivery,1342.94,Approved
+1090,10592,2025-03-15,Damaged,4303.57,Approved
+1091,10598,2025-02-24,Others,2010.58,Approved
+1092,10607,2025-07-17,Wrong Size,434.62,Approved
+1093,10625,2025-04-14,Wrong Size,1852.31,Approved
+1094,10630,2025-05-20,Others,2307.21,Approved
+1095,10633,2025-06-06,Late Delivery,5406.64,Approved
+1096,10636,2025-07-11,Late Delivery,1185.83,Rejected
+1097,10646,2024-04-23,Damaged,1765.91,Approved
+1098,10648,2024-05-02,Late Delivery,5267.51,Approved
+1099,10655,2025-06-19,Others,671.62,Approved
+1100,10656,2025-01-14,Damaged,3206.01,Approved
+1101,10665,2024-06-21,Wrong Size,838.87,Approved
+1102,10666,2025-07-01,Others,2468.65,Approved
+1103,10681,2025-07-14,Damaged,973.55,Approved
+1104,10686,2024-11-04,Others,1137.68,Approved
+1105,10696,2024-12-31,Wrong Size,2421.12,Rejected
+1106,10701,2024-04-10,Late Delivery,1370.52,Approved
+1107,10717,2025-06-20,Wrong Size,1010.45,Approved
+1108,10719,2025-07-13,Late Delivery,5017.45,Approved
+1109,10720,2025-05-21,Others,2159.82,Approved
+1110,10739,2023-11-22,Late Delivery,3936.4,Approved
+1111,10744,2025-04-09,Wrong Size,585.65,Approved
+1112,10753,2025-06-22,Others,4940.11,Approved
+1113,10763,2024-11-09,Others,2509.74,Approved
+1114,10766,2025-04-20,Others,4733.59,Approved
+1115,10789,2025-07-16,Wrong Size,1014.89,Approved
+1116,10801,2024-11-10,Wrong Size,170.54,Approved
+1117,10806,2025-05-31,Others,2523.94,Approved
+1118,10823,2024-06-10,Others,408.99,Approved
+1119,10825,2024-08-01,Late Delivery,4458.44,Approved
+1120,10838,2024-11-29,Others,430.08,Approved
+1121,10857,2025-01-03,Late Delivery,406.91,Approved
+1122,10874,2025-07-10,Wrong Size,1301.96,Approved
+1123,10877,2025-07-19,Damaged,2355.24,Approved
+1124,10878,2025-04-12,Late Delivery,778.81,Approved
+1125,10884,2024-07-26,Wrong Size,3470.46,Rejected
+1126,10898,2025-05-27,Wrong Size,944.18,Approved
+1127,10918,2025-02-28,Damaged,811.84,Approved
+1128,10919,2025-03-29,Damaged,2456.45,Approved
+1129,10928,2024-12-07,Wrong Size,3175.93,Approved
+1130,10933,2025-07-07,Damaged,3075.23,Approved
+1131,10939,2024-11-14,Others,1099.29,Approved
+1132,10949,2024-10-16,Others,774.95,Approved
+1133,10966,2025-06-25,Late Delivery,1631.31,Approved
+1134,10967,2025-07-19,Wrong Size,4579.14,Approved
+1135,10969,2025-07-08,Late Delivery,2090.92,Approved
+1136,10975,2025-07-03,Wrong Size,1813.98,Approved
+1137,10980,2025-03-30,Wrong Size,1539.49,Approved
+1138,11007,2024-12-23,Others,1821.44,Approved
+1139,11010,2025-05-03,Damaged,1437.54,Approved
+1140,11037,2023-12-08,Others,707.18,Approved
+1141,11057,2025-05-26,Late Delivery,683.44,Approved
+1142,11065,2025-07-04,Late Delivery,1257.82,Approved
+1143,11076,2025-06-10,Damaged,481.52,Approved
+1144,11080,2024-12-18,Late Delivery,734.17,Approved
+1145,11083,2025-06-25,Others,228.95,Approved
+1146,11088,2025-07-20,Damaged,5368.23,Approved
+1147,11109,2024-04-07,Late Delivery,3368.96,Approved
+1148,11124,2024-07-06,Late Delivery,5170.79,Approved
+1149,11136,2025-07-09,Damaged,1012.71,Approved
+1150,11148,2025-02-23,Others,843.84,Approved
+1151,11156,2025-07-20,Late Delivery,1946.05,Approved
+1152,11169,2025-05-19,Damaged,467.25,Approved
+1153,11173,2024-03-29,Wrong Size,631.43,Approved
+1154,11179,2025-04-27,Wrong Size,2276.66,Approved
+1155,11180,2024-02-11,Late Delivery,2428.28,Rejected
+1156,11189,2024-01-19,Others,1616.71,Approved
+1157,11193,2025-06-01,Damaged,1136.29,Approved
+1158,11203,2024-08-21,Others,3531.29,Approved
+1159,11220,2025-06-25,Damaged,727.89,Approved
+1160,11229,2025-07-18,Others,3828.04,Approved
+1161,11230,2025-06-13,Damaged,1821.98,Approved
+1162,11240,2025-05-31,Wrong Size,1931.19,Approved
+1163,11245,2025-01-27,Others,879.31,Approved
+1164,11252,2025-07-09,Wrong Size,2417.93,Approved
+1165,11265,2024-06-26,Late Delivery,3983.47,Approved
+1166,11270,2024-03-15,Wrong Size,5425.65,Approved
+1167,11292,2025-07-06,Damaged,1242.22,Approved
+1168,11293,2025-07-13,Damaged,2243.58,Approved
+1169,11312,2025-06-13,Wrong Size,3976.67,Approved
+1170,11328,2024-12-04,Late Delivery,724.65,Approved
+1171,11347,2024-11-17,Late Delivery,455.64,Approved
+1172,11368,2025-03-28,Damaged,3331.84,Approved
+1173,11399,2025-07-14,Late Delivery,1337.95,Approved
+1174,11402,2024-11-20,Wrong Size,1957.3,Approved
+1175,11416,2024-06-20,Wrong Size,656.9,Approved
+1176,11426,2025-06-19,Wrong Size,437.15,Approved
+1177,11432,2025-06-30,Damaged,2329.33,Approved
+1178,11438,2025-06-24,Wrong Size,4538.95,Approved
+1179,11456,2024-11-10,Late Delivery,574.89,Approved
+1180,11466,2025-04-10,Wrong Size,2411.43,Approved
+1181,11470,2025-04-28,Others,4709.04,Approved
+1182,11473,2025-06-05,Damaged,2837.32,Rejected
+1183,11475,2024-07-15,Damaged,2753.14,Approved
+1184,11476,2025-07-14,Late Delivery,279.5,Rejected
+1185,11483,2025-07-13,Late Delivery,905.05,Approved
+1186,11498,2025-06-07,Wrong Size,1904.45,Approved
+1187,11499,2025-07-01,Damaged,3782.39,Approved
+1188,11533,2024-08-05,Others,2237.44,Approved
+1189,11549,2025-05-24,Late Delivery,2126.68,Approved
+1190,11557,2024-01-02,Damaged,4787.07,Approved
+1191,11565,2024-02-26,Wrong Size,1350.76,Approved
+1192,11570,2025-05-17,Late Delivery,1679.79,Approved
+1193,11585,2024-09-15,Late Delivery,1992.61,Approved
+1194,11603,2024-10-20,Damaged,1873.66,Approved
+1195,11634,2025-06-15,Others,944.37,Approved
+1196,11639,2025-07-10,Others,269.33,Approved
+1197,11647,2025-04-10,Others,1767.5,Approved
+1198,11652,2025-07-01,Wrong Size,285.44,Approved
+1199,11665,2025-05-02,Late Delivery,4895.55,Approved
+1200,11670,2025-05-05,Damaged,2148.21,Approved
+1201,11675,2024-07-08,Others,2976.76,Approved
+1202,11683,2024-06-16,Late Delivery,1782.61,Approved
+1203,11685,2024-08-22,Wrong Size,600.6,Rejected
+1204,11687,2024-12-22,Late Delivery,576.72,Approved
+1205,11690,2025-06-26,Others,1980.98,Approved
+1206,11691,2025-06-01,Damaged,978.82,Approved
+1207,11693,2025-01-18,Others,896.9,Approved
+1208,11697,2024-10-06,Wrong Size,2948.35,Approved
+1209,11701,2025-06-01,Others,2665.16,Approved
+1210,11739,2024-10-07,Damaged,3477.82,Approved
+1211,11754,2024-09-19,Damaged,750.69,Approved
+1212,11756,2025-03-24,Others,3173.1,Approved
+1213,11763,2025-06-11,Others,1177.74,Approved
+1214,11779,2025-06-13,Others,899.51,Approved
+1215,11780,2024-08-06,Others,1446.43,Approved
+1216,11781,2025-05-13,Others,1845.07,Approved
+1217,11784,2024-07-20,Late Delivery,4047.67,Approved
+1218,11786,2024-06-14,Wrong Size,5406.07,Approved
+1219,11802,2024-09-07,Others,4836.53,Approved
+1220,11811,2024-10-14,Others,4192.31,Approved
+1221,11820,2025-02-09,Damaged,316.03,Approved
+1222,11833,2025-06-02,Damaged,3522.46,Approved
+1223,11840,2025-02-13,Damaged,4533.64,Approved
+1224,11842,2025-04-12,Late Delivery,1704.53,Approved
+1225,11853,2025-05-09,Late Delivery,492.73,Rejected
+1226,11881,2023-09-26,Wrong Size,394.7,Approved
+1227,11906,2025-07-06,Damaged,1021.18,Rejected
+1228,11909,2025-06-11,Damaged,534.18,Approved
+1229,11918,2025-05-15,Late Delivery,822.15,Approved
+1230,11937,2025-04-10,Wrong Size,795.45,Approved
+1231,11944,2025-03-07,Damaged,4423.17,Approved
+1232,11961,2024-07-15,Late Delivery,2117.54,Approved
+1233,11973,2025-06-26,Damaged,4229.93,Approved
+1234,11978,2025-06-30,Others,982.83,Approved
+1235,11979,2025-03-24,Others,605.61,Approved
+1236,12008,2025-05-04,Others,2226.14,Approved
+1237,12013,2025-07-07,Damaged,3910.95,Approved
+1238,12023,2025-06-15,Others,2651.44,Approved
+1239,12040,2024-11-10,Others,2801.52,Approved
+1240,12041,2024-12-02,Others,676.97,Approved
+1241,12042,2024-06-08,Wrong Size,112.68,Approved
+1242,12054,2024-12-20,Damaged,3977.64,Approved
+1243,12055,2025-07-07,Late Delivery,2903.33,Approved
+1244,12070,2025-06-29,Wrong Size,6119.94,Approved
+1245,12083,2024-08-01,Others,558.95,Approved
+1246,12092,2025-01-07,Others,987.2,Approved
+1247,12093,2024-02-18,Wrong Size,5192.42,Rejected
+1248,12096,2024-12-24,Late Delivery,1813.49,Rejected
+1249,12109,2025-02-10,Damaged,3518.11,Approved
+1250,12111,2025-07-08,Damaged,3199.14,Approved
+1251,12112,2025-06-12,Wrong Size,2137.68,Approved
+1252,12114,2025-03-05,Damaged,3807.77,Approved
+1253,12133,2024-04-02,Damaged,6474.87,Approved
+1254,12135,2025-03-05,Wrong Size,1532.77,Approved
+1255,12145,2025-07-16,Late Delivery,3249.98,Rejected
+1256,12188,2024-12-31,Late Delivery,4932.82,Approved
+1257,12194,2024-08-13,Damaged,452.39,Approved
+1258,12207,2025-05-25,Late Delivery,308.39,Approved
+1259,12213,2025-04-10,Wrong Size,2076.39,Approved
+1260,12228,2025-06-18,Others,798.03,Approved
+1261,12235,2024-08-24,Late Delivery,887.19,Approved
+1262,12242,2025-07-04,Late Delivery,2256.75,Approved
+1263,12247,2025-06-17,Damaged,3740.26,Approved
+1264,12255,2025-02-13,Damaged,2337.57,Rejected
+1265,12264,2025-02-04,Damaged,2192.71,Approved
+1266,12266,2025-05-03,Late Delivery,1635.85,Approved
+1267,12272,2025-06-02,Others,2592.37,Approved
+1268,12280,2025-04-25,Damaged,951.82,Approved
+1269,12298,2024-07-23,Others,4477.87,Approved
+1270,12312,2025-07-17,Others,1479.57,Approved
+1271,12321,2025-02-08,Late Delivery,5071.26,Approved
+1272,12325,2024-12-22,Damaged,394.59,Approved
+1273,12329,2025-07-18,Wrong Size,2095.49,Approved
+1274,12348,2024-05-07,Damaged,1317.67,Approved
+1275,12355,2025-06-03,Damaged,2985.12,Approved
+1276,12371,2025-04-20,Others,1860.54,Approved
+1277,12395,2024-12-15,Late Delivery,1357.81,Approved
+1278,12397,2024-10-15,Wrong Size,1115.45,Approved
+1279,12417,2024-01-23,Others,330.13,Approved
+1280,12444,2024-10-31,Others,487.81,Approved
+1281,12458,2025-07-09,Damaged,313.85,Approved
+1282,12459,2024-11-18,Damaged,1967.88,Approved
+1283,12466,2024-11-17,Late Delivery,285.83,Approved
+1284,12476,2024-05-13,Wrong Size,558.11,Approved
+1285,12489,2025-05-10,Damaged,3859.14,Approved
+1286,12543,2025-07-08,Others,2083.98,Approved
+1287,12546,2025-02-07,Wrong Size,2005.76,Approved
+1288,12572,2024-12-30,Wrong Size,3121.89,Approved
+1289,12584,2025-03-14,Late Delivery,424.4,Approved
+1290,12605,2024-09-14,Wrong Size,2439.08,Approved
+1291,12606,2024-03-28,Others,818.0,Rejected
+1292,12609,2025-04-21,Damaged,1151.71,Approved
+1293,12610,2025-06-18,Wrong Size,591.22,Approved
+1294,12618,2025-04-24,Wrong Size,1905.29,Approved
+1295,12641,2025-02-20,Wrong Size,974.98,Approved
+1296,12645,2025-01-22,Damaged,4552.73,Approved
+1297,12646,2025-06-26,Late Delivery,871.99,Approved
+1298,12661,2025-04-24,Late Delivery,2655.58,Approved
+1299,12665,2025-07-02,Damaged,2017.54,Approved
+1300,12668,2025-05-02,Others,1940.15,Approved
+1301,12679,2025-02-07,Late Delivery,1135.09,Approved
+1302,12686,2024-02-12,Others,1015.35,Approved
+1303,12691,2025-01-10,Wrong Size,1103.09,Approved
+1304,12696,2025-04-19,Wrong Size,216.51,Approved
+1305,12697,2025-07-14,Late Delivery,841.39,Approved
+1306,12713,2024-11-27,Others,971.43,Approved
+1307,12714,2025-07-05,Wrong Size,2715.96,Approved
+1308,12715,2025-02-25,Wrong Size,4309.41,Approved
+1309,12718,2025-02-07,Late Delivery,1608.05,Approved
+1310,12727,2024-07-10,Others,2170.14,Approved
+1311,12734,2025-07-02,Others,2205.42,Approved
+1312,12741,2024-11-02,Late Delivery,1664.43,Approved
+1313,12744,2025-07-13,Others,1324.33,Approved
+1314,12745,2024-09-11,Damaged,979.1,Approved
+1315,12752,2025-07-04,Others,552.19,Approved
+1316,12755,2025-02-03,Others,1868.11,Approved
+1317,12758,2024-07-19,Others,3330.61,Approved
+1318,12772,2024-07-06,Others,939.47,Approved
+1319,12793,2025-04-09,Late Delivery,374.07,Rejected
+1320,12799,2025-03-15,Wrong Size,421.68,Approved
+1321,12813,2024-06-17,Wrong Size,678.41,Approved
+1322,12814,2025-07-19,Damaged,357.79,Approved
+1323,12822,2025-03-25,Others,4735.83,Approved
+1324,12850,2025-07-05,Others,2371.75,Approved
+1325,12865,2025-04-30,Damaged,2194.2,Rejected
+1326,12869,2025-04-09,Wrong Size,3740.71,Approved
+1327,12887,2024-01-01,Wrong Size,2127.91,Approved
+1328,12893,2025-01-12,Damaged,666.85,Approved
+1329,12894,2025-07-17,Wrong Size,170.27,Approved
+1330,12902,2025-04-26,Others,1310.54,Approved
+1331,12905,2024-03-23,Wrong Size,1428.9,Approved
+1332,12921,2025-05-16,Others,3510.99,Approved
+1333,12923,2025-02-08,Others,1863.49,Approved
+1334,12934,2025-04-23,Damaged,2120.54,Approved
+1335,12939,2025-05-25,Others,617.57,Approved
+1336,12944,2023-09-29,Wrong Size,1043.58,Approved
+1337,12948,2023-12-19,Others,3195.45,Rejected
+1338,12950,2025-03-26,Wrong Size,849.61,Approved
+1339,12987,2025-06-18,Others,1876.36,Approved
+1340,13018,2025-04-30,Wrong Size,4689.58,Approved
+1341,13022,2024-06-25,Others,1694.89,Approved
+1342,13028,2025-05-26,Wrong Size,3741.45,Approved
+1343,13029,2024-09-26,Damaged,2371.66,Approved
+1344,13030,2024-05-27,Damaged,846.64,Approved
+1345,13033,2024-07-28,Late Delivery,999.4,Approved
+1346,13044,2025-03-22,Damaged,4766.9,Approved
+1347,13047,2025-07-09,Damaged,301.68,Approved
+1348,13052,2025-06-18,Wrong Size,2426.89,Rejected
+1349,13073,2025-03-29,Wrong Size,1010.24,Approved
+1350,13086,2024-07-23,Late Delivery,2932.32,Rejected
+1351,13096,2025-06-11,Damaged,165.28,Approved
+1352,13114,2024-12-19,Damaged,1871.87,Approved
+1353,13125,2025-03-15,Wrong Size,1789.07,Approved
+1354,13146,2025-06-15,Damaged,2367.42,Approved
+1355,13148,2025-05-18,Late Delivery,4043.76,Rejected
+1356,13165,2024-03-20,Wrong Size,1886.49,Approved
+1357,13168,2025-07-17,Wrong Size,308.46,Approved
+1358,13170,2025-06-24,Late Delivery,1592.34,Approved
+1359,13194,2024-10-26,Others,1084.55,Approved
+1360,13200,2023-09-08,Others,5244.16,Approved
+1361,13206,2025-07-12,Late Delivery,1087.85,Approved
+1362,13215,2024-04-06,Others,4332.27,Approved
+1363,13216,2024-09-20,Wrong Size,1195.95,Approved
+1364,13255,2025-05-26,Wrong Size,3726.06,Approved
+1365,13257,2024-12-23,Late Delivery,1545.73,Approved
+1366,13270,2024-08-18,Others,1023.95,Approved
+1367,13271,2025-02-02,Late Delivery,1267.97,Approved
+1368,13274,2025-06-16,Wrong Size,928.59,Approved
+1369,13280,2025-02-08,Late Delivery,2091.52,Approved
+1370,13289,2025-02-22,Others,3740.3,Approved
+1371,13290,2025-02-13,Damaged,322.99,Approved
+1372,13293,2025-03-31,Others,2448.96,Approved
+1373,13299,2025-07-18,Late Delivery,2357.03,Approved
+1374,13300,2024-03-23,Wrong Size,1732.82,Rejected
+1375,13306,2024-10-12,Others,2457.6,Approved
+1376,13307,2024-07-06,Wrong Size,1797.16,Approved
+1377,13310,2025-03-20,Others,2033.31,Approved
+1378,13321,2025-06-24,Damaged,894.1,Approved
+1379,13342,2025-07-14,Others,2643.23,Approved
+1380,13357,2024-10-07,Others,2127.98,Approved
+1381,13359,2025-06-26,Wrong Size,2515.29,Approved
+1382,13390,2025-07-18,Damaged,833.96,Approved
+1383,13406,2025-01-11,Others,2827.74,Approved
+1384,13415,2025-03-31,Late Delivery,816.07,Approved
+1385,13424,2025-02-04,Damaged,4521.3,Approved
+1386,13426,2025-07-16,Damaged,732.91,Approved
+1387,13430,2025-07-03,Others,4091.76,Approved
+1388,13444,2025-04-03,Late Delivery,1816.46,Approved
+1389,13465,2024-12-28,Damaged,1314.61,Approved
+1390,13470,2024-12-08,Damaged,1163.58,Approved
+1391,13488,2025-07-13,Late Delivery,3035.04,Approved
+1392,13518,2024-03-10,Late Delivery,3709.09,Approved
+1393,13537,2025-07-18,Damaged,3617.68,Approved
+1394,13541,2024-07-30,Others,2699.64,Approved
+1395,13576,2025-03-02,Wrong Size,4226.8,Approved
+1396,13596,2025-05-16,Others,881.47,Approved
+1397,13603,2025-07-17,Others,1656.45,Approved
+1398,13604,2025-06-03,Wrong Size,553.38,Approved
+1399,13609,2024-10-31,Wrong Size,3929.61,Approved
+1400,13611,2024-10-30,Late Delivery,3012.02,Approved
+1401,13621,2025-06-02,Damaged,1085.44,Approved
+1402,13636,2025-04-27,Damaged,758.67,Approved
+1403,13655,2025-04-05,Late Delivery,3793.07,Approved
+1404,13661,2024-11-05,Damaged,3036.22,Approved
+1405,13671,2025-02-23,Wrong Size,1779.74,Approved
+1406,13678,2025-03-02,Wrong Size,4793.59,Rejected
+1407,13682,2024-11-10,Late Delivery,3763.81,Approved
+1408,13692,2025-04-28,Wrong Size,545.86,Approved
+1409,13711,2024-12-21,Damaged,507.52,Approved
+1410,13733,2025-06-24,Damaged,3676.35,Approved
+1411,13742,2024-03-29,Wrong Size,728.6,Approved
+1412,13759,2025-07-11,Late Delivery,813.28,Approved
+1413,13767,2025-06-22,Late Delivery,2674.83,Approved
+1414,13796,2023-11-03,Others,1375.91,Approved
+1415,13810,2024-12-06,Late Delivery,1660.65,Approved
+1416,13816,2025-06-20,Late Delivery,648.68,Rejected
+1417,13822,2024-01-27,Damaged,1488.5,Rejected
+1418,13866,2025-04-29,Others,971.47,Approved
+1419,13868,2025-01-01,Damaged,738.42,Approved
+1420,13870,2024-10-08,Late Delivery,1001.27,Approved
+1421,13871,2025-04-17,Others,455.62,Approved
+1422,13872,2025-03-30,Wrong Size,1210.68,Approved
+1423,13924,2025-05-15,Late Delivery,3686.3,Approved
+1424,13944,2024-11-07,Late Delivery,453.31,Approved
+1425,13961,2025-06-06,Damaged,817.47,Approved
+1426,13964,2025-06-27,Damaged,1889.97,Approved
+1427,13990,2023-10-02,Others,2963.71,Rejected
+1428,13992,2025-01-16,Late Delivery,1627.99,Rejected
+1429,13993,2024-09-06,Others,821.17,Approved
+1430,13995,2024-02-24,Damaged,2103.97,Approved
+1431,14006,2025-07-18,Late Delivery,250.63,Approved
+1432,14009,2025-06-27,Late Delivery,2695.2,Approved
+1433,14020,2025-03-15,Damaged,519.1,Approved
+1434,14024,2024-12-21,Others,3798.83,Approved
+1435,14044,2024-10-02,Damaged,803.52,Approved
+1436,14051,2025-02-05,Late Delivery,757.87,Rejected
+1437,14052,2025-02-21,Others,1500.5,Approved
+1438,14055,2025-05-07,Late Delivery,2915.4,Rejected
+1439,14060,2023-12-01,Damaged,4371.73,Rejected
+1440,14101,2025-03-24,Damaged,2103.01,Approved
+1441,14104,2025-02-01,Others,2468.73,Approved
+1442,14129,2023-09-30,Others,3297.91,Approved
+1443,14132,2025-01-27,Wrong Size,876.13,Approved
+1444,14156,2025-07-16,Damaged,221.28,Approved
+1445,14164,2025-01-19,Wrong Size,3732.78,Approved
+1446,14171,2024-10-23,Others,156.45,Approved
+1447,14179,2025-07-20,Damaged,1809.85,Approved
+1448,14181,2025-04-01,Damaged,751.22,Approved
+1449,14187,2024-11-21,Others,1631.21,Approved
+1450,14190,2025-04-07,Damaged,1159.74,Approved
+1451,14192,2025-07-08,Others,848.97,Rejected
+1452,14196,2025-02-07,Damaged,1698.82,Approved
+1453,14198,2025-04-26,Others,921.36,Approved
+1454,14202,2025-07-19,Damaged,240.47,Approved
+1455,14205,2024-12-19,Others,627.32,Approved
+1456,14212,2024-11-26,Damaged,914.59,Approved
+1457,14219,2025-05-21,Damaged,5994.29,Approved
+1458,14221,2024-08-07,Late Delivery,2493.39,Approved
+1459,14241,2024-10-04,Others,3354.89,Approved
+1460,14243,2024-07-09,Others,2713.86,Rejected
+1461,14271,2024-11-27,Late Delivery,4408.99,Approved
+1462,14276,2025-07-19,Wrong Size,1942.29,Approved
+1463,14292,2025-03-29,Damaged,1246.95,Approved
+1464,14309,2025-04-17,Others,5327.1,Approved
+1465,14326,2025-07-08,Wrong Size,1837.06,Approved
+1466,14331,2024-05-24,Late Delivery,1173.99,Approved
+1467,14340,2025-05-03,Wrong Size,2105.69,Approved
+1468,14356,2025-02-20,Damaged,2363.9,Approved
+1469,14364,2024-02-17,Damaged,4346.0,Approved
+1470,14365,2025-05-16,Wrong Size,769.01,Approved
+1471,14375,2024-06-10,Damaged,3133.44,Approved
+1472,14379,2025-05-23,Damaged,3135.2,Approved
+1473,14394,2025-06-19,Late Delivery,2032.65,Approved
+1474,14398,2025-01-03,Others,1526.52,Rejected
+1475,14415,2024-10-30,Damaged,618.85,Approved
+1476,14456,2025-05-28,Damaged,4558.41,Approved
+1477,14488,2025-04-14,Damaged,2171.27,Approved
+1478,14537,2024-11-19,Wrong Size,1584.57,Approved
+1479,14542,2024-10-21,Damaged,2422.57,Approved
+1480,14552,2025-07-12,Wrong Size,1572.44,Approved
+1481,14562,2025-05-05,Late Delivery,2093.39,Approved
+1482,14566,2025-06-08,Others,3429.42,Rejected
+1483,14595,2025-01-07,Damaged,2583.45,Approved
+1484,14606,2025-06-04,Late Delivery,1847.57,Approved
+1485,14618,2024-10-12,Wrong Size,1633.8,Approved
+1486,14625,2024-02-02,Others,757.35,Approved
+1487,14627,2025-03-25,Others,3143.98,Approved
+1488,14628,2025-04-24,Damaged,6323.29,Approved
+1489,14629,2024-09-27,Wrong Size,3756.69,Approved
+1490,14648,2025-01-21,Wrong Size,2462.11,Rejected
+1491,14655,2024-10-27,Late Delivery,3616.67,Approved
+1492,14656,2025-01-09,Others,1056.34,Approved
+1493,14658,2025-02-01,Late Delivery,3407.87,Approved
+1494,14659,2025-01-06,Wrong Size,5787.43,Approved
+1495,14663,2024-04-09,Late Delivery,2337.92,Approved
+1496,14669,2025-04-29,Damaged,304.79,Approved
+1497,14690,2025-07-19,Wrong Size,617.21,Approved
+1498,14691,2023-12-09,Wrong Size,1576.04,Approved
+1499,14710,2024-02-08,Damaged,561.34,Approved
+1500,14718,2024-07-27,Late Delivery,2209.25,Approved
+1501,14720,2025-01-16,Damaged,2114.4,Approved
+1502,14721,2024-09-29,Damaged,4250.96,Rejected
+1503,14740,2025-05-08,Late Delivery,810.82,Approved
+1504,14748,2024-11-06,Damaged,977.87,Approved
+1505,14768,2025-01-16,Wrong Size,4678.83,Approved
+1506,14771,2025-02-10,Wrong Size,1451.19,Approved
+1507,14776,2025-03-16,Damaged,1156.23,Approved
+1508,14792,2025-01-26,Late Delivery,2172.01,Approved
+1509,14810,2025-07-09,Wrong Size,1783.65,Approved
+1510,14833,2025-07-06,Late Delivery,2276.24,Approved
+1511,14836,2025-06-16,Late Delivery,1741.86,Approved
+1512,14857,2025-06-07,Wrong Size,1816.44,Approved
+1513,14859,2025-07-13,Late Delivery,285.3,Rejected
+1514,14874,2025-04-16,Wrong Size,3835.07,Approved
+1515,14892,2024-09-10,Damaged,635.85,Approved
+1516,14898,2025-06-17,Damaged,2358.0,Approved
+1517,14906,2025-07-16,Others,1053.44,Approved
+1518,14912,2024-05-10,Late Delivery,248.03,Approved
+1519,14933,2025-05-04,Others,2143.92,Rejected
+1520,14939,2024-04-18,Late Delivery,1518.54,Approved
+1521,14941,2025-03-04,Late Delivery,4133.83,Rejected
+1522,14948,2025-05-22,Late Delivery,532.77,Approved
+1523,14974,2025-07-11,Others,580.56,Approved
+1524,14986,2025-06-08,Late Delivery,1670.73,Approved
+1525,15032,2025-05-16,Damaged,2000.41,Approved
+1526,15050,2025-02-27,Damaged,595.61,Approved
+1527,15079,2023-10-12,Damaged,1341.41,Approved
+1528,15080,2024-03-26,Others,240.6,Approved
+1529,15082,2025-04-11,Damaged,923.69,Approved
+1530,15095,2025-03-15,Late Delivery,803.34,Approved
+1531,15112,2024-04-02,Wrong Size,1640.56,Approved
+1532,15116,2024-07-09,Wrong Size,3612.14,Approved
+1533,15121,2025-05-16,Late Delivery,2290.08,Approved
+1534,15122,2025-07-14,Others,4032.88,Approved
+1535,15151,2024-07-01,Wrong Size,906.47,Approved
+1536,15164,2024-10-04,Others,1455.57,Approved
+1537,15169,2024-12-01,Wrong Size,3951.01,Approved
+1538,15179,2024-03-13,Damaged,1231.55,Approved
+1539,15182,2025-06-15,Wrong Size,583.23,Approved
+1540,15186,2025-02-26,Late Delivery,693.18,Approved
+1541,15207,2025-06-29,Late Delivery,1653.36,Approved
+1542,15216,2025-01-12,Others,3974.23,Approved
+1543,15221,2025-02-03,Late Delivery,2030.22,Approved
+1544,15244,2024-02-21,Wrong Size,4901.88,Approved
+1545,15247,2025-01-31,Late Delivery,1435.69,Approved
+1546,15268,2024-10-18,Wrong Size,1327.49,Approved
+1547,15285,2023-10-19,Others,2926.51,Approved
+1548,15289,2024-02-28,Damaged,1065.38,Approved
+1549,15309,2025-01-24,Wrong Size,1474.21,Approved
+1550,15310,2025-07-11,Wrong Size,1237.73,Approved
+1551,15312,2024-10-16,Others,1227.8,Approved
+1552,15320,2025-06-25,Others,4382.79,Approved
+1553,15330,2025-03-29,Others,1550.6,Approved
+1554,15372,2024-12-07,Others,714.52,Approved
+1555,15393,2024-12-13,Late Delivery,395.7,Approved
+1556,15397,2025-07-18,Damaged,2190.34,Approved
+1557,15402,2024-12-15,Wrong Size,1041.53,Approved
+1558,15406,2024-12-18,Others,610.0,Rejected
+1559,15417,2025-03-11,Others,1129.5,Approved
+1560,15420,2025-05-29,Others,4001.95,Approved
+1561,15465,2025-07-17,Others,1372.59,Rejected
+1562,15477,2025-03-10,Late Delivery,3251.86,Approved
+1563,15479,2024-10-08,Late Delivery,1591.73,Approved
+1564,15505,2024-12-28,Others,2592.83,Approved
+1565,15516,2025-01-09,Late Delivery,761.26,Approved
+1566,15525,2025-05-05,Wrong Size,612.77,Approved
+1567,15536,2025-01-30,Late Delivery,1592.69,Approved
+1568,15537,2024-12-30,Wrong Size,555.96,Approved
+1569,15565,2024-10-24,Wrong Size,778.1,Approved
+1570,15569,2024-04-20,Others,2986.03,Approved
+1571,15580,2025-01-09,Others,4862.74,Approved
+1572,15581,2025-07-18,Damaged,4592.03,Approved
+1573,15597,2024-12-21,Others,3271.69,Approved
+1574,15607,2025-02-06,Others,1355.08,Rejected
+1575,15634,2025-03-27,Others,1928.14,Approved
+1576,15666,2025-03-15,Wrong Size,2388.74,Approved
+1577,15685,2025-05-05,Damaged,2031.84,Approved
+1578,15694,2025-02-03,Damaged,2898.87,Approved
+1579,15716,2024-01-17,Wrong Size,3729.36,Approved
+1580,15724,2024-08-03,Others,730.46,Approved
+1581,15726,2025-05-10,Wrong Size,5246.36,Approved
+1582,15733,2024-12-09,Damaged,1075.73,Approved
+1583,15737,2025-01-28,Wrong Size,1345.72,Approved
+1584,15752,2025-04-14,Damaged,410.59,Approved
+1585,15755,2025-07-17,Others,569.78,Approved
+1586,15756,2025-07-16,Wrong Size,3671.51,Approved
+1587,15757,2025-05-09,Wrong Size,1948.7,Approved
+1588,15760,2024-07-23,Wrong Size,4987.76,Approved
+1589,15784,2025-06-13,Wrong Size,4514.02,Approved
+1590,15800,2024-03-27,Wrong Size,1974.39,Approved
+1591,15806,2025-04-01,Late Delivery,919.81,Approved
+1592,15811,2025-07-16,Damaged,330.14,Approved
+1593,15842,2024-12-20,Wrong Size,1360.42,Approved
+1594,15846,2024-10-06,Late Delivery,958.48,Rejected
+1595,15872,2025-05-09,Late Delivery,2706.24,Approved
+1596,15878,2025-06-12,Late Delivery,1144.96,Approved
+1597,15893,2025-04-17,Others,834.49,Approved
+1598,15897,2024-12-28,Wrong Size,619.1,Approved
+1599,15902,2025-07-07,Late Delivery,556.58,Approved
+1600,15903,2025-01-06,Others,1130.83,Approved
+1601,15909,2025-05-03,Others,3995.36,Approved
+1602,15912,2024-05-03,Wrong Size,449.12,Approved
+1603,15929,2024-07-05,Late Delivery,521.86,Approved
+1604,15931,2024-04-03,Late Delivery,1388.39,Approved
+1605,15939,2025-05-18,Damaged,2594.96,Approved
+1606,15942,2025-01-04,Damaged,998.58,Rejected
+1607,15944,2025-03-08,Wrong Size,4544.13,Approved
+1608,15960,2025-06-15,Others,2049.45,Approved
+1609,15973,2023-10-14,Others,744.8,Approved
+1610,15976,2025-04-01,Wrong Size,1513.46,Approved
+1611,15999,2025-06-21,Wrong Size,1601.99,Approved
+1612,16009,2024-10-27,Damaged,480.95,Approved
+1613,16012,2025-05-11,Others,1495.73,Approved
+1614,16026,2025-07-12,Others,249.53,Approved
+1615,16032,2024-06-13,Wrong Size,659.26,Approved
+1616,16035,2024-07-17,Damaged,794.15,Approved
+1617,16036,2024-10-22,Wrong Size,671.36,Approved
+1618,16039,2024-10-16,Others,539.18,Rejected
+1619,16064,2024-07-23,Damaged,1849.66,Approved
+1620,16067,2024-07-08,Damaged,4941.13,Approved
+1621,16076,2024-09-11,Late Delivery,4020.68,Approved
+1622,16111,2025-06-06,Late Delivery,1847.72,Approved
+1623,16139,2025-07-16,Late Delivery,227.12,Rejected
+1624,16148,2025-06-21,Wrong Size,3603.41,Approved
+1625,16149,2025-02-23,Wrong Size,4393.06,Approved
+1626,16173,2025-06-05,Damaged,600.35,Approved
+1627,16181,2024-06-06,Damaged,542.09,Approved
+1628,16188,2025-06-17,Damaged,2456.74,Approved
+1629,16189,2024-10-25,Damaged,203.52,Approved
+1630,16193,2023-09-27,Late Delivery,920.62,Approved
+1631,16194,2025-03-14,Wrong Size,1654.34,Approved
+1632,16196,2025-06-27,Wrong Size,1482.04,Approved
+1633,16205,2023-12-19,Late Delivery,1032.99,Approved
+1634,16213,2024-07-20,Late Delivery,970.79,Approved
+1635,16230,2024-01-20,Late Delivery,2185.81,Approved
+1636,16238,2025-02-24,Late Delivery,1708.79,Approved
+1637,16243,2025-05-29,Late Delivery,662.79,Approved
+1638,16266,2024-11-19,Others,1329.49,Rejected
+1639,16272,2025-02-21,Late Delivery,2909.94,Approved
+1640,16273,2024-09-27,Late Delivery,1837.67,Approved
+1641,16289,2025-04-15,Late Delivery,4505.06,Approved
+1642,16296,2025-03-13,Damaged,3534.65,Approved
+1643,16304,2025-01-24,Others,889.95,Approved
+1644,16321,2025-01-29,Late Delivery,2881.83,Approved
+1645,16340,2025-03-31,Others,1110.98,Rejected
+1646,16341,2025-04-10,Others,1034.08,Approved
+1647,16365,2024-12-20,Others,1309.64,Approved
+1648,16372,2025-05-01,Late Delivery,591.77,Approved
+1649,16377,2025-04-20,Wrong Size,226.69,Rejected
+1650,16380,2025-05-13,Late Delivery,1010.72,Approved
+1651,16383,2025-02-18,Others,328.89,Approved
+1652,16403,2025-01-24,Others,4996.75,Approved
+1653,16427,2025-02-20,Damaged,3942.92,Approved
+1654,16428,2024-10-01,Others,1836.54,Approved
+1655,16431,2024-08-06,Late Delivery,3746.41,Approved
+1656,16433,2025-06-01,Late Delivery,2870.13,Approved
+1657,16440,2023-10-27,Damaged,2978.95,Rejected
+1658,16446,2025-02-21,Late Delivery,1400.5,Approved
+1659,16454,2024-08-21,Late Delivery,4813.66,Approved
+1660,16455,2025-02-07,Wrong Size,980.65,Approved
+1661,16472,2025-06-22,Others,631.33,Approved
+1662,16473,2024-09-16,Late Delivery,2935.13,Approved
+1663,16481,2025-05-12,Wrong Size,1965.38,Approved
+1664,16483,2025-01-30,Damaged,1754.81,Approved
+1665,16492,2024-06-03,Others,2794.06,Approved
+1666,16501,2024-02-09,Others,3592.89,Rejected
+1667,16502,2025-07-12,Others,868.63,Approved
+1668,16504,2024-03-23,Wrong Size,287.28,Approved
+1669,16517,2025-06-07,Wrong Size,159.19,Approved
+1670,16518,2024-09-09,Late Delivery,5484.64,Approved
+1671,16519,2025-06-23,Late Delivery,431.04,Approved
+1672,16526,2025-05-20,Wrong Size,269.39,Approved
+1673,16530,2024-08-06,Damaged,3921.51,Approved
+1674,16531,2025-02-23,Damaged,1767.61,Approved
+1675,16539,2024-08-18,Damaged,1673.23,Approved
+1676,16542,2025-05-30,Others,3323.38,Approved
+1677,16570,2024-09-15,Damaged,985.07,Approved
+1678,16579,2025-07-18,Late Delivery,4944.38,Approved
+1679,16589,2025-07-09,Damaged,3141.55,Approved
+1680,16606,2025-07-10,Late Delivery,1358.01,Approved
+1681,16637,2025-05-04,Damaged,3285.9,Approved
+1682,16639,2025-01-11,Others,2227.05,Approved
+1683,16671,2025-01-20,Others,842.24,Rejected
+1684,16672,2025-07-20,Damaged,369.99,Rejected
+1685,16680,2024-05-17,Others,1556.68,Rejected
+1686,16707,2025-05-06,Late Delivery,722.66,Approved
+1687,16713,2025-04-15,Wrong Size,3583.64,Approved
+1688,16723,2025-06-05,Late Delivery,770.76,Approved
+1689,16729,2025-05-11,Wrong Size,3649.41,Approved
+1690,16741,2024-07-22,Late Delivery,4541.35,Approved
+1691,16757,2024-07-16,Wrong Size,4354.02,Rejected
+1692,16791,2024-07-31,Late Delivery,2279.34,Rejected
+1693,16794,2025-06-27,Damaged,831.08,Approved
+1694,16795,2025-07-12,Others,5095.54,Approved
+1695,16805,2025-06-05,Damaged,1974.78,Approved
+1696,16829,2025-01-10,Late Delivery,2026.2,Approved
+1697,16862,2024-04-23,Late Delivery,1684.27,Approved
+1698,16870,2025-07-10,Late Delivery,1462.97,Approved
+1699,16876,2025-01-20,Late Delivery,1795.03,Approved
+1700,16877,2025-07-15,Others,1951.85,Approved
+1701,16883,2025-06-03,Damaged,1137.87,Approved
+1702,16887,2025-02-25,Damaged,1582.14,Approved
+1703,16898,2025-06-23,Late Delivery,524.47,Approved
+1704,16905,2025-01-16,Others,4516.24,Approved
+1705,16909,2024-10-21,Wrong Size,1122.37,Approved
+1706,16911,2025-01-05,Late Delivery,1632.24,Approved
+1707,16915,2025-03-12,Others,4479.86,Approved
+1708,16930,2024-12-22,Damaged,2152.72,Rejected
+1709,16946,2025-02-08,Late Delivery,1153.85,Approved
+1710,16951,2025-04-21,Late Delivery,1704.25,Approved
+1711,16977,2025-01-30,Late Delivery,5506.01,Approved
+1712,16979,2025-01-17,Others,1760.1,Approved
+1713,16992,2025-03-02,Others,196.91,Rejected
+1714,17005,2024-01-28,Damaged,1913.79,Approved
+1715,17008,2024-10-12,Late Delivery,1996.79,Approved
+1716,17016,2024-09-15,Others,4962.24,Approved
+1717,17019,2025-07-06,Damaged,3650.69,Approved
+1718,17020,2024-06-08,Damaged,1468.81,Approved
+1719,17027,2024-09-11,Damaged,477.09,Approved
+1720,17057,2025-01-25,Wrong Size,1174.62,Approved
+1721,17059,2025-03-01,Damaged,1225.09,Approved
+1722,17065,2025-03-01,Damaged,3186.71,Approved
+1723,17076,2024-11-16,Others,1184.96,Approved
+1724,17089,2025-02-21,Damaged,3100.54,Approved
+1725,17093,2024-05-30,Damaged,4415.35,Approved
+1726,17096,2025-07-03,Late Delivery,1111.61,Approved
+1727,17113,2025-06-28,Damaged,2956.06,Approved
+1728,17124,2025-05-05,Others,2344.18,Approved
+1729,17128,2025-05-20,Wrong Size,253.36,Approved
+1730,17159,2024-04-05,Others,2619.15,Rejected
+1731,17162,2025-06-14,Wrong Size,2433.47,Approved
+1732,17180,2025-02-08,Damaged,2392.2,Approved
+1733,17186,2025-03-23,Damaged,1573.35,Approved
+1734,17194,2024-09-21,Damaged,822.94,Approved
+1735,17204,2025-04-09,Others,441.28,Rejected
+1736,17228,2025-04-29,Others,4317.83,Approved
+1737,17239,2025-06-02,Damaged,2192.15,Approved
+1738,17245,2025-06-02,Late Delivery,3201.84,Approved
+1739,17247,2025-01-11,Damaged,509.53,Approved
+1740,17261,2023-11-19,Wrong Size,1987.96,Approved
+1741,17268,2025-06-13,Late Delivery,977.4,Approved
+1742,17290,2025-04-21,Damaged,2347.04,Approved
+1743,17292,2024-04-02,Damaged,2100.44,Approved
+1744,17315,2025-07-03,Damaged,4116.44,Approved
+1745,17329,2024-04-26,Others,1679.26,Approved
+1746,17330,2025-06-15,Wrong Size,1492.15,Approved
+1747,17341,2024-02-08,Late Delivery,1056.3,Approved
+1748,17366,2024-02-19,Wrong Size,2257.66,Approved
+1749,17371,2024-12-25,Late Delivery,3929.83,Approved
+1750,17381,2025-07-07,Damaged,2273.7,Approved
+1751,17398,2025-06-22,Others,1019.73,Approved
+1752,17406,2025-03-10,Others,2983.04,Approved
+1753,17407,2025-03-21,Others,4592.33,Approved
+1754,17413,2025-07-05,Late Delivery,437.74,Approved
+1755,17419,2025-03-30,Others,435.23,Approved
+1756,17422,2025-06-24,Late Delivery,1341.79,Approved
+1757,17443,2025-02-02,Others,2893.8,Approved
+1758,17446,2025-07-08,Others,916.5,Approved
+1759,17447,2025-07-15,Wrong Size,397.96,Approved
+1760,17448,2025-04-26,Damaged,4447.44,Approved
+1761,17455,2025-05-29,Late Delivery,365.16,Approved
+1762,17466,2025-07-02,Damaged,2615.88,Approved
+1763,17488,2024-08-17,Others,5160.82,Approved
+1764,17491,2023-11-23,Wrong Size,1160.35,Approved
+1765,17500,2025-04-08,Damaged,527.28,Rejected
+1766,17511,2025-07-17,Others,2749.7,Approved
+1767,17526,2024-10-22,Others,679.9,Approved
+1768,17532,2025-04-08,Wrong Size,1626.0,Approved
+1769,17533,2024-12-02,Others,1414.3,Approved
+1770,17546,2024-04-15,Late Delivery,1076.07,Approved
+1771,17559,2025-04-18,Late Delivery,1365.17,Approved
+1772,17567,2024-12-17,Damaged,964.98,Approved
+1773,17583,2025-05-30,Late Delivery,4816.94,Approved
+1774,17584,2024-12-03,Wrong Size,1038.9,Approved
+1775,17590,2025-03-06,Others,1438.05,Approved
+1776,17601,2024-12-30,Wrong Size,2188.28,Approved
+1777,17610,2024-12-13,Damaged,615.8,Approved
+1778,17628,2023-11-17,Others,5567.14,Approved
+1779,17665,2025-06-02,Others,419.99,Approved
+1780,17666,2025-02-20,Wrong Size,3682.37,Approved
+1781,17668,2024-02-09,Late Delivery,1691.68,Approved
+1782,17669,2025-07-07,Others,1806.63,Approved
+1783,17678,2024-12-13,Wrong Size,1775.45,Approved
+1784,17680,2024-02-22,Wrong Size,823.29,Rejected
+1785,17689,2024-07-23,Damaged,1509.14,Approved
+1786,17701,2024-09-23,Damaged,1644.55,Approved
+1787,17706,2025-04-20,Others,1546.6,Approved
+1788,17707,2025-06-12,Wrong Size,5563.44,Approved
+1789,17718,2024-08-16,Wrong Size,3559.5,Approved
+1790,17725,2025-06-28,Damaged,5364.01,Approved
+1791,17742,2025-06-18,Damaged,1255.7,Approved
+1792,17744,2025-03-31,Damaged,1112.25,Approved
+1793,17771,2025-04-01,Others,1167.79,Approved
+1794,17783,2025-06-27,Wrong Size,998.99,Approved
+1795,17796,2024-07-07,Late Delivery,2750.03,Approved
+1796,17808,2024-10-14,Damaged,4203.8,Approved
+1797,17821,2025-05-27,Late Delivery,1004.33,Approved
+1798,17825,2025-02-25,Wrong Size,1499.59,Approved
+1799,17827,2025-03-07,Others,1258.92,Approved
+1800,17829,2025-02-28,Damaged,540.61,Approved
+1801,17855,2024-11-13,Late Delivery,5547.03,Approved
+1802,17862,2024-11-15,Wrong Size,1032.01,Approved
+1803,17872,2025-01-25,Damaged,1138.12,Approved
+1804,17876,2024-12-19,Damaged,1549.85,Approved
+1805,17886,2025-04-23,Wrong Size,1882.7,Approved
+1806,17889,2025-07-20,Damaged,3320.55,Approved
+1807,17929,2023-12-07,Damaged,1275.6,Approved
+1808,17935,2025-06-15,Others,2624.27,Approved
+1809,17938,2025-03-11,Damaged,1955.81,Approved
+1810,17946,2025-06-10,Wrong Size,824.65,Rejected
+1811,17950,2025-07-07,Late Delivery,1923.28,Approved
+1812,17955,2025-05-28,Wrong Size,1212.68,Approved
+1813,17961,2025-03-30,Wrong Size,863.88,Approved
+1814,17970,2024-05-31,Others,701.96,Approved
+1815,17998,2025-05-04,Wrong Size,5072.53,Approved
+1816,17999,2025-07-12,Others,3040.1,Approved
+1817,18003,2025-06-10,Damaged,697.45,Approved
+1818,18018,2025-03-13,Late Delivery,1864.56,Approved
+1819,18019,2024-03-26,Late Delivery,411.37,Approved
+1820,18024,2024-12-17,Damaged,920.85,Approved
+1821,18026,2025-03-03,Others,796.6,Approved
+1822,18038,2024-12-09,Others,1303.9,Rejected
+1823,18040,2025-05-22,Others,3455.17,Approved
+1824,18044,2024-04-17,Wrong Size,687.73,Approved
+1825,18045,2025-03-26,Wrong Size,6044.83,Approved
+1826,18049,2025-05-01,Wrong Size,1178.27,Approved
+1827,18056,2025-01-31,Late Delivery,3450.56,Approved
+1828,18057,2025-05-07,Damaged,2347.32,Approved
+1829,18079,2025-05-08,Damaged,1020.33,Approved
+1830,18086,2025-03-03,Wrong Size,3743.07,Rejected
+1831,18102,2024-09-23,Damaged,4302.77,Approved
+1832,18109,2024-10-09,Damaged,344.45,Approved
+1833,18120,2025-06-18,Wrong Size,1391.14,Approved
+1834,18147,2023-10-07,Late Delivery,1384.71,Rejected
+1835,18148,2025-04-14,Others,822.56,Approved
+1836,18166,2025-07-05,Damaged,1612.41,Approved
+1837,18171,2025-05-10,Late Delivery,532.98,Approved
+1838,18175,2024-08-03,Late Delivery,4881.64,Approved
+1839,18183,2025-04-25,Wrong Size,509.39,Approved
+1840,18189,2025-02-09,Wrong Size,4872.06,Approved
+1841,18190,2025-05-18,Others,436.62,Approved
+1842,18193,2025-05-18,Others,906.57,Approved
+1843,18199,2025-02-04,Late Delivery,737.54,Approved
+1844,18201,2025-04-20,Late Delivery,610.2,Approved
+1845,18214,2025-05-10,Others,1023.13,Approved
+1846,18217,2025-03-01,Others,1886.2,Approved
+1847,18218,2025-01-13,Damaged,1549.35,Approved
+1848,18232,2024-12-12,Others,3410.02,Approved
+1849,18244,2025-04-13,Damaged,691.78,Approved
+1850,18249,2025-05-18,Damaged,1276.46,Approved
+1851,18250,2025-06-07,Others,1682.39,Rejected
+1852,18266,2024-04-10,Wrong Size,3525.44,Approved
+1853,18286,2025-05-30,Wrong Size,1481.03,Approved
+1854,18291,2025-03-23,Late Delivery,268.08,Approved
+1855,18307,2024-09-11,Damaged,2334.12,Approved
+1856,18333,2025-07-15,Wrong Size,2201.25,Approved
+1857,18358,2025-06-20,Others,2703.66,Approved
+1858,18372,2025-05-03,Wrong Size,728.42,Approved
+1859,18386,2024-07-28,Others,1287.17,Approved
+1860,18390,2025-03-28,Wrong Size,3236.04,Approved
+1861,18400,2025-07-19,Damaged,318.82,Approved
+1862,18401,2025-06-14,Late Delivery,1768.98,Approved
+1863,18427,2025-07-18,Wrong Size,4952.33,Approved
+1864,18437,2024-03-14,Late Delivery,1014.1,Approved
+1865,18448,2025-05-03,Late Delivery,1043.38,Approved
+1866,18449,2024-08-21,Wrong Size,2577.81,Approved
+1867,18450,2024-05-15,Damaged,1089.65,Approved
+1868,18474,2025-07-19,Late Delivery,2726.27,Approved
+1869,18516,2025-07-11,Damaged,647.02,Approved
+1870,18522,2024-11-16,Wrong Size,871.5,Approved
+1871,18560,2024-12-02,Wrong Size,1038.91,Approved
+1872,18583,2025-07-17,Late Delivery,2298.77,Approved
+1873,18585,2025-04-13,Wrong Size,2153.79,Approved
+1874,18595,2025-01-06,Late Delivery,3027.62,Approved
+1875,18601,2025-03-30,Damaged,1101.81,Approved
+1876,18619,2025-06-19,Late Delivery,428.93,Approved
+1877,18642,2025-05-26,Others,413.61,Approved
+1878,18651,2024-11-18,Late Delivery,2200.48,Approved
+1879,18668,2024-05-06,Others,163.18,Approved
+1880,18673,2025-07-10,Wrong Size,2961.27,Approved
+1881,18677,2025-07-16,Late Delivery,3566.78,Approved
+1882,18684,2024-07-06,Late Delivery,1837.89,Approved
+1883,18707,2025-04-10,Damaged,152.55,Approved
+1884,18713,2025-04-25,Wrong Size,290.86,Approved
+1885,18724,2024-06-04,Late Delivery,1227.91,Rejected
+1886,18727,2024-03-19,Others,2496.91,Approved
+1887,18768,2024-09-13,Wrong Size,1246.67,Approved
+1888,18773,2025-02-20,Wrong Size,2115.44,Approved
+1889,18774,2025-07-16,Wrong Size,1992.51,Approved
+1890,18779,2025-01-16,Damaged,873.38,Approved
+1891,18785,2025-05-01,Damaged,1411.18,Rejected
+1892,18788,2024-10-07,Late Delivery,500.51,Approved
+1893,18809,2024-07-05,Others,1008.31,Approved
+1894,18836,2025-05-06,Others,736.58,Approved
+1895,18860,2025-05-27,Others,5040.44,Rejected
+1896,18863,2025-05-17,Wrong Size,889.81,Approved
+1897,18868,2025-06-14,Others,1727.86,Approved
+1898,18869,2025-06-24,Wrong Size,1036.07,Approved
+1899,18876,2025-07-18,Damaged,1241.77,Rejected
+1900,18907,2025-05-06,Wrong Size,2652.39,Rejected
+1901,18936,2025-06-27,Others,2038.91,Approved
+1902,18970,2024-04-01,Wrong Size,2695.02,Approved
+1903,18973,2024-08-23,Wrong Size,4152.24,Approved
+1904,18979,2025-04-09,Wrong Size,1047.03,Approved
+1905,19011,2025-06-10,Damaged,932.35,Approved
+1906,19023,2025-06-27,Late Delivery,713.88,Approved
+1907,19041,2024-01-09,Damaged,547.69,Approved
+1908,19046,2025-06-14,Wrong Size,1493.01,Approved
+1909,19062,2025-02-23,Wrong Size,150.8,Rejected
+1910,19065,2024-07-30,Damaged,892.21,Approved
+1911,19080,2025-07-18,Wrong Size,1542.69,Approved
+1912,19088,2024-11-30,Others,2241.42,Approved
+1913,19089,2025-05-04,Others,1309.08,Approved
+1914,19109,2025-05-31,Damaged,2128.45,Approved
+1915,19136,2025-01-27,Damaged,3211.62,Approved
+1916,19137,2025-05-13,Damaged,2180.56,Approved
+1917,19140,2025-06-17,Wrong Size,171.84,Approved
+1918,19168,2025-05-14,Late Delivery,662.8,Approved
+1919,19174,2025-01-22,Others,3739.21,Approved
+1920,19175,2025-04-07,Late Delivery,613.79,Approved
+1921,19179,2025-03-29,Others,741.99,Approved
+1922,19185,2025-04-21,Wrong Size,2718.96,Approved
+1923,19193,2025-06-18,Late Delivery,2860.66,Approved
+1924,19201,2024-06-08,Others,888.28,Approved
+1925,19214,2025-06-13,Others,4547.08,Approved
+1926,19217,2025-06-24,Others,2966.64,Approved
+1927,19218,2024-12-28,Damaged,2654.33,Approved
+1928,19243,2025-02-17,Others,817.51,Approved
+1929,19245,2025-04-12,Damaged,2420.66,Approved
+1930,19264,2025-05-18,Damaged,2881.87,Approved
+1931,19267,2025-07-15,Late Delivery,757.31,Approved
+1932,19285,2024-04-05,Late Delivery,558.53,Rejected
+1933,19292,2024-12-25,Others,510.06,Approved
+1934,19300,2025-04-21,Late Delivery,3983.69,Approved
+1935,19309,2024-05-03,Damaged,301.73,Approved
+1936,19318,2025-04-15,Damaged,1150.33,Approved
+1937,19329,2024-07-11,Others,1056.05,Approved
+1938,19332,2025-03-08,Wrong Size,1974.44,Rejected
+1939,19343,2024-02-25,Damaged,698.21,Rejected
+1940,19344,2024-04-08,Damaged,1940.35,Approved
+1941,19346,2025-02-19,Others,1818.36,Approved
+1942,19353,2025-05-23,Damaged,618.05,Approved
+1943,19356,2024-07-06,Late Delivery,1279.62,Approved
+1944,19367,2025-07-04,Late Delivery,2439.89,Approved
+1945,19382,2025-07-13,Others,4979.52,Approved
+1946,19404,2025-04-26,Others,1634.84,Approved
+1947,19406,2025-03-11,Others,864.36,Approved
+1948,19410,2024-08-17,Late Delivery,2834.38,Approved
+1949,19426,2024-08-21,Others,1494.93,Approved
+1950,19452,2025-06-04,Late Delivery,1105.32,Approved
+1951,19453,2025-02-23,Wrong Size,1184.31,Rejected
+1952,19454,2025-06-16,Others,2668.27,Approved
+1953,19456,2025-06-13,Wrong Size,2834.39,Approved
+1954,19468,2025-05-24,Wrong Size,2151.01,Approved
+1955,19476,2025-02-13,Wrong Size,491.51,Approved
+1956,19483,2024-10-05,Wrong Size,2311.26,Approved
+1957,19487,2023-09-19,Others,402.69,Approved
+1958,19495,2025-06-22,Wrong Size,1153.91,Rejected
+1959,19496,2024-10-08,Wrong Size,1785.76,Approved
+1960,19506,2023-12-30,Damaged,3679.82,Approved
+1961,19507,2025-06-19,Damaged,2483.48,Approved
+1962,19525,2025-05-06,Wrong Size,2829.06,Rejected
+1963,19534,2025-07-15,Damaged,1057.17,Approved
+1964,19537,2025-01-06,Others,2937.13,Approved
+1965,19571,2025-02-18,Others,287.71,Approved
+1966,19581,2024-07-09,Wrong Size,524.09,Rejected
+1967,19594,2025-07-11,Late Delivery,2734.47,Approved
+1968,19610,2025-05-21,Damaged,1497.23,Rejected
+1969,19622,2024-09-07,Late Delivery,266.97,Rejected
+1970,19624,2024-06-01,Late Delivery,1083.26,Approved
+1971,19626,2025-07-13,Damaged,2266.2,Approved
+1972,19635,2024-01-25,Others,1320.89,Rejected
+1973,19663,2025-05-15,Others,1451.87,Approved
+1974,19675,2025-05-03,Late Delivery,2853.94,Approved
+1975,19685,2025-05-09,Wrong Size,4120.3,Rejected
+1976,19698,2025-02-14,Others,1105.72,Approved
+1977,19709,2025-01-11,Damaged,394.1,Approved
+1978,19719,2025-04-30,Wrong Size,720.77,Approved
+1979,19726,2024-03-06,Others,1124.45,Approved
+1980,19734,2025-05-29,Damaged,4861.77,Approved
+1981,19776,2024-10-27,Wrong Size,1082.06,Approved
+1982,19778,2024-06-20,Late Delivery,3741.03,Approved
+1983,19786,2024-10-16,Wrong Size,1040.0,Approved
+1984,19788,2024-10-27,Damaged,3592.0,Approved
+1985,19826,2025-07-02,Damaged,716.78,Rejected
+1986,19831,2024-10-29,Damaged,350.6,Approved
+1987,19841,2024-08-29,Wrong Size,4726.0,Approved
+1988,19854,2025-07-20,Wrong Size,234.83,Approved
+1989,19858,2025-07-19,Damaged,2611.63,Approved
+1990,19867,2025-06-08,Damaged,586.46,Approved
+1991,19879,2025-07-16,Damaged,2026.3,Approved
+1992,19882,2025-06-04,Damaged,2962.53,Approved
+1993,19891,2024-09-26,Damaged,1628.74,Approved
+1994,19896,2025-07-15,Others,1580.15,Approved
+1995,19899,2024-07-02,Late Delivery,906.25,Approved
+1996,19915,2025-01-01,Others,247.58,Approved
+1997,19924,2024-08-14,Others,3336.75,Approved
+1998,19950,2025-05-23,Wrong Size,3021.62,Rejected
+1999,19957,2025-05-09,Wrong Size,1050.68,Approved
+2000,19971,2025-04-18,Late Delivery,3093.74,Approved
+2001,19977,2025-01-05,Late Delivery,2134.86,Approved
+2002,19984,2025-05-06,Others,1837.73,Approved
+2003,19987,2025-07-05,Damaged,665.07,Approved
+2004,19992,2024-04-05,Wrong Size,1034.91,Approved
